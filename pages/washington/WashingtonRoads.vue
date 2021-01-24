@@ -1,11 +1,12 @@
 <template>
   <div>
-    <h2>Routes</h2>
+    <h2>Washington Routes Sitemap</h2>
     <div v-for="route in routes" :key="route.index">
       {{ route.sitemapItem }}
     </div>
 
-    <h2>Cams Sitemap</h2>
+    <hr />
+    <h2>Washington Cams Sitemap</h2>
     <div v-for="cam in allCams" :key="cam.index">
       {{ cam.sitemapItem }}
     </div>
