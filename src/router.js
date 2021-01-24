@@ -1,14 +1,21 @@
 import Vue from 'vue';
 import VueRouter from 'vue-router';
 
+import AlaskaRoads from '../pages/alaska/AlaskaRoads.vue';
 import CaliforniaRoads from '../pages/california/CaliforniaRoads.vue';
 import ColoradoRoads from '../pages/colorado/ColoradoRoads.vue';
+import IowaRoads from '../pages/iowa/IowaRoads.vue';
 import OregonRoads from '../pages/oregon/OregonRoads.vue';
 import WashingtonRoads from '../pages/washington/WashingtonRoads.vue';
 
 Vue.use(VueRouter);
 
 const routes = [
+  {
+    path: '/alaska',
+    name: 'AlaskaRoads',
+    component: AlaskaRoads,
+  },
   {
     path: '/california',
     name: 'CaliforniaRoads',
@@ -18,6 +25,11 @@ const routes = [
     path: '/colorado',
     name: 'ColoradoRoads',
     component: ColoradoRoads,
+  },
+  {
+    path: '/iowa',
+    name: 'IowaRoads',
+    component: IowaRoads,
   },
   {
     path: '/oregon',
