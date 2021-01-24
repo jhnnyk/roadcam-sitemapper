@@ -1,0 +1,1588 @@
+{
+  "data": [
+    {
+      "cctv": {
+        "index": "1",
+        "recordTimestamp": {
+          "recordDate": "2020-11-05",
+          "recordTime": "11:30:44",
+          "recordEpoch": "1604604644"
+        },
+        "location": {
+          "district": "9",
+          "locationName": "SR-203 : Mammoth Mountain 1",
+          "nearbyPlace": "Mammoth Lakes",
+          "longitude": "-118.91848",
+          "latitude": "37.64111",
+          "elevation": "7339",
+          "direction": "East",
+          "county": "Mono",
+          "route": "SR-203",
+          "routeSuffix": "",
+          "postmilePrefix": "R",
+          "postmile": "8.52",
+          "alignment": "",
+          "milepost": "9.2"
+        },
+        "inService": "true",
+        "imageData": {
+          "imageDescription": "SB 395 Ramps",
+          "streamingVideoURL": "",
+          "static": {
+            "currentImageUpdateFrequency": "20",
+            "currentImageURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr203mammothmountain1/sr203mammothmountain1.jpg",
+            "referenceImageUpdateFrequency": "60",
+            "referenceImage1UpdateAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr203mammothmountain1/previous/sr203mammothmountain1-1.jpg",
+            "referenceImage2UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr203mammothmountain1/previous/sr203mammothmountain1-2.jpg",
+            "referenceImage3UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr203mammothmountain1/previous/sr203mammothmountain1-3.jpg",
+            "referenceImage4UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr203mammothmountain1/previous/sr203mammothmountain1-4.jpg",
+            "referenceImage5UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr203mammothmountain1/previous/sr203mammothmountain1-5.jpg",
+            "referenceImage6UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr203mammothmountain1/previous/sr203mammothmountain1-6.jpg",
+            "referenceImage7UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr203mammothmountain1/previous/sr203mammothmountain1-7.jpg",
+            "referenceImage8UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr203mammothmountain1/previous/sr203mammothmountain1-8.jpg",
+            "referenceImage9UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr203mammothmountain1/previous/sr203mammothmountain1-9.jpg",
+            "referenceImage10UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr203mammothmountain1/previous/sr203mammothmountain1-10.jpg",
+            "referenceImage11UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr203mammothmountain1/previous/sr203mammothmountain1-11.jpg",
+            "referenceImage12UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr203mammothmountain1/previous/sr203mammothmountain1-12.jpg"
+          }
+        }
+      }
+    },
+    {
+      "cctv": {
+        "index": "2",
+        "recordTimestamp": {
+          "recordDate": "2020-11-05",
+          "recordTime": "11:30:53",
+          "recordEpoch": "1604604653"
+        },
+        "location": {
+          "district": "9",
+          "locationName": "SR-203 : Mammoth Mountain 2",
+          "nearbyPlace": "Mammoth Lakes",
+          "longitude": "-118.91848",
+          "latitude": "37.64111",
+          "elevation": "7339",
+          "direction": "East",
+          "county": "Mono",
+          "route": "SR-203",
+          "routeSuffix": "",
+          "postmilePrefix": "R",
+          "postmile": "8.52",
+          "alignment": "",
+          "milepost": "9.2"
+        },
+        "inService": "true",
+        "imageData": {
+          "imageDescription": "Chain Up Area",
+          "streamingVideoURL": "",
+          "static": {
+            "currentImageUpdateFrequency": "20",
+            "currentImageURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr203mammothmountain2/sr203mammothmountain2.jpg",
+            "referenceImageUpdateFrequency": "60",
+            "referenceImage1UpdateAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr203mammothmountain2/previous/sr203mammothmountain2-1.jpg",
+            "referenceImage2UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr203mammothmountain2/previous/sr203mammothmountain2-2.jpg",
+            "referenceImage3UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr203mammothmountain2/previous/sr203mammothmountain2-3.jpg",
+            "referenceImage4UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr203mammothmountain2/previous/sr203mammothmountain2-4.jpg",
+            "referenceImage5UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr203mammothmountain2/previous/sr203mammothmountain2-5.jpg",
+            "referenceImage6UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr203mammothmountain2/previous/sr203mammothmountain2-6.jpg",
+            "referenceImage7UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr203mammothmountain2/previous/sr203mammothmountain2-7.jpg",
+            "referenceImage8UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr203mammothmountain2/previous/sr203mammothmountain2-8.jpg",
+            "referenceImage9UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr203mammothmountain2/previous/sr203mammothmountain2-9.jpg",
+            "referenceImage10UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr203mammothmountain2/previous/sr203mammothmountain2-10.jpg",
+            "referenceImage11UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr203mammothmountain2/previous/sr203mammothmountain2-11.jpg",
+            "referenceImage12UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr203mammothmountain2/previous/sr203mammothmountain2-12.jpg"
+          }
+        }
+      }
+    },
+    {
+      "cctv": {
+        "index": "3",
+        "recordTimestamp": {
+          "recordDate": "2020-11-05",
+          "recordTime": "11:31:02",
+          "recordEpoch": "1604604662"
+        },
+        "location": {
+          "district": "9",
+          "locationName": "SR-203 : Mammoth Mountain 3",
+          "nearbyPlace": "Mammoth Lakes",
+          "longitude": "-118.91848",
+          "latitude": "37.64111",
+          "elevation": "7339",
+          "direction": "East",
+          "county": "Mono",
+          "route": "SR-203",
+          "routeSuffix": "",
+          "postmilePrefix": "R",
+          "postmile": "8.52",
+          "alignment": "",
+          "milepost": "9.2"
+        },
+        "inService": "true",
+        "imageData": {
+          "imageDescription": "Chain Up Area Zoom",
+          "streamingVideoURL": "",
+          "static": {
+            "currentImageUpdateFrequency": "20",
+            "currentImageURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr203mammothmountain3/sr203mammothmountain3.jpg",
+            "referenceImageUpdateFrequency": "60",
+            "referenceImage1UpdateAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr203mammothmountain3/previous/sr203mammothmountain3-1.jpg",
+            "referenceImage2UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr203mammothmountain3/previous/sr203mammothmountain3-2.jpg",
+            "referenceImage3UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr203mammothmountain3/previous/sr203mammothmountain3-3.jpg",
+            "referenceImage4UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr203mammothmountain3/previous/sr203mammothmountain3-4.jpg",
+            "referenceImage5UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr203mammothmountain3/previous/sr203mammothmountain3-5.jpg",
+            "referenceImage6UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr203mammothmountain3/previous/sr203mammothmountain3-6.jpg",
+            "referenceImage7UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr203mammothmountain3/previous/sr203mammothmountain3-7.jpg",
+            "referenceImage8UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr203mammothmountain3/previous/sr203mammothmountain3-8.jpg",
+            "referenceImage9UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr203mammothmountain3/previous/sr203mammothmountain3-9.jpg",
+            "referenceImage10UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr203mammothmountain3/previous/sr203mammothmountain3-10.jpg",
+            "referenceImage11UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr203mammothmountain3/previous/sr203mammothmountain3-11.jpg",
+            "referenceImage12UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr203mammothmountain3/previous/sr203mammothmountain3-12.jpg"
+          }
+        }
+      }
+    },
+    {
+      "cctv": {
+        "index": "4",
+        "recordTimestamp": {
+          "recordDate": "2020-11-05",
+          "recordTime": "11:31:10",
+          "recordEpoch": "1604604670"
+        },
+        "location": {
+          "district": "9",
+          "locationName": "SR-203 : Mammoth Mountain 4",
+          "nearbyPlace": "Mammoth Lakes",
+          "longitude": "-118.91848",
+          "latitude": "37.64111",
+          "elevation": "7339",
+          "direction": "East",
+          "county": "Mono",
+          "route": "SR-203",
+          "routeSuffix": "",
+          "postmilePrefix": "R",
+          "postmile": "8.52",
+          "alignment": "",
+          "milepost": "9.2"
+        },
+        "inService": "true",
+        "imageData": {
+          "imageDescription": "Looking West",
+          "streamingVideoURL": "",
+          "static": {
+            "currentImageUpdateFrequency": "20",
+            "currentImageURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr203mammothmountain4/sr203mammothmountain4.jpg",
+            "referenceImageUpdateFrequency": "60",
+            "referenceImage1UpdateAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr203mammothmountain4/previous/sr203mammothmountain4-1.jpg",
+            "referenceImage2UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr203mammothmountain4/previous/sr203mammothmountain4-2.jpg",
+            "referenceImage3UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr203mammothmountain4/previous/sr203mammothmountain4-3.jpg",
+            "referenceImage4UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr203mammothmountain4/previous/sr203mammothmountain4-4.jpg",
+            "referenceImage5UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr203mammothmountain4/previous/sr203mammothmountain4-5.jpg",
+            "referenceImage6UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr203mammothmountain4/previous/sr203mammothmountain4-6.jpg",
+            "referenceImage7UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr203mammothmountain4/previous/sr203mammothmountain4-7.jpg",
+            "referenceImage8UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr203mammothmountain4/previous/sr203mammothmountain4-8.jpg",
+            "referenceImage9UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr203mammothmountain4/previous/sr203mammothmountain4-9.jpg",
+            "referenceImage10UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr203mammothmountain4/previous/sr203mammothmountain4-10.jpg",
+            "referenceImage11UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr203mammothmountain4/previous/sr203mammothmountain4-11.jpg",
+            "referenceImage12UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr203mammothmountain4/previous/sr203mammothmountain4-12.jpg"
+          }
+        }
+      }
+    },
+    {
+      "cctv": {
+        "index": "5",
+        "recordTimestamp": {
+          "recordDate": "2020-11-05",
+          "recordTime": "11:31:20",
+          "recordEpoch": "1604604680"
+        },
+        "location": {
+          "district": "9",
+          "locationName": "SR-203 : Mammoth Mountain 5",
+          "nearbyPlace": "Mammoth Lakes",
+          "longitude": "-118.91848",
+          "latitude": "37.64111",
+          "elevation": "7339",
+          "direction": "East",
+          "county": "Mono",
+          "route": "SR-203",
+          "routeSuffix": "",
+          "postmilePrefix": "R",
+          "postmile": "8.52",
+          "alignment": "",
+          "milepost": "9.2"
+        },
+        "inService": "true",
+        "imageData": {
+          "imageDescription": "SB 395 Offramp",
+          "streamingVideoURL": "",
+          "static": {
+            "currentImageUpdateFrequency": "20",
+            "currentImageURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr203mammothmountain5/sr203mammothmountain5.jpg",
+            "referenceImageUpdateFrequency": "60",
+            "referenceImage1UpdateAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr203mammothmountain5/previous/sr203mammothmountain5-1.jpg",
+            "referenceImage2UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr203mammothmountain5/previous/sr203mammothmountain5-2.jpg",
+            "referenceImage3UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr203mammothmountain5/previous/sr203mammothmountain5-3.jpg",
+            "referenceImage4UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr203mammothmountain5/previous/sr203mammothmountain5-4.jpg",
+            "referenceImage5UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr203mammothmountain5/previous/sr203mammothmountain5-5.jpg",
+            "referenceImage6UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr203mammothmountain5/previous/sr203mammothmountain5-6.jpg",
+            "referenceImage7UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr203mammothmountain5/previous/sr203mammothmountain5-7.jpg",
+            "referenceImage8UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr203mammothmountain5/previous/sr203mammothmountain5-8.jpg",
+            "referenceImage9UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr203mammothmountain5/previous/sr203mammothmountain5-9.jpg",
+            "referenceImage10UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr203mammothmountain5/previous/sr203mammothmountain5-10.jpg",
+            "referenceImage11UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr203mammothmountain5/previous/sr203mammothmountain5-11.jpg",
+            "referenceImage12UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr203mammothmountain5/previous/sr203mammothmountain5-12.jpg"
+          }
+        }
+      }
+    },
+    {
+      "cctv": {
+        "index": "6",
+        "recordTimestamp": {
+          "recordDate": "2020-11-05",
+          "recordTime": "11:31:29",
+          "recordEpoch": "1604604689"
+        },
+        "location": {
+          "district": "9",
+          "locationName": "SR-203 : Mammoth Mountain 6",
+          "nearbyPlace": "Mammoth Lakes",
+          "longitude": "-118.91848",
+          "latitude": "37.64111",
+          "elevation": "7339",
+          "direction": "East",
+          "county": "Mono",
+          "route": "SR-203",
+          "routeSuffix": "",
+          "postmilePrefix": "R",
+          "postmile": "8.52",
+          "alignment": "",
+          "milepost": "9.2"
+        },
+        "inService": "true",
+        "imageData": {
+          "imageDescription": "Looking South East",
+          "streamingVideoURL": "",
+          "static": {
+            "currentImageUpdateFrequency": "20",
+            "currentImageURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr203mammothmountain6/sr203mammothmountain6.jpg",
+            "referenceImageUpdateFrequency": "60",
+            "referenceImage1UpdateAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr203mammothmountain6/previous/sr203mammothmountain6-1.jpg",
+            "referenceImage2UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr203mammothmountain6/previous/sr203mammothmountain6-2.jpg",
+            "referenceImage3UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr203mammothmountain6/previous/sr203mammothmountain6-3.jpg",
+            "referenceImage4UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr203mammothmountain6/previous/sr203mammothmountain6-4.jpg",
+            "referenceImage5UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr203mammothmountain6/previous/sr203mammothmountain6-5.jpg",
+            "referenceImage6UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr203mammothmountain6/previous/sr203mammothmountain6-6.jpg",
+            "referenceImage7UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr203mammothmountain6/previous/sr203mammothmountain6-7.jpg",
+            "referenceImage8UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr203mammothmountain6/previous/sr203mammothmountain6-8.jpg",
+            "referenceImage9UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr203mammothmountain6/previous/sr203mammothmountain6-9.jpg",
+            "referenceImage10UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr203mammothmountain6/previous/sr203mammothmountain6-10.jpg",
+            "referenceImage11UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr203mammothmountain6/previous/sr203mammothmountain6-11.jpg",
+            "referenceImage12UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr203mammothmountain6/previous/sr203mammothmountain6-12.jpg"
+          }
+        }
+      }
+    },
+    {
+      "cctv": {
+        "index": "8",
+        "recordTimestamp": {
+          "recordDate": "2020-11-13",
+          "recordTime": "14:29:00",
+          "recordEpoch": "1605306540"
+        },
+        "location": {
+          "district": "9",
+          "locationName": "US-395 : Conway Summit 1",
+          "nearbyPlace": "Lee Vining",
+          "longitude": "-119.181251",
+          "latitude": "38.08782",
+          "elevation": "8149",
+          "direction": "North",
+          "county": "Mono",
+          "route": "US-395",
+          "routeSuffix": "",
+          "postmilePrefix": "",
+          "postmile": "63.54",
+          "alignment": "",
+          "milepost": "297.14"
+        },
+        "inService": "true",
+        "imageData": {
+          "imageDescription": "South",
+          "streamingVideoURL": "",
+          "static": {
+            "currentImageUpdateFrequency": "20",
+            "currentImageURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395conwaysummit1/us395conwaysummit1.jpg",
+            "referenceImageUpdateFrequency": "60",
+            "referenceImage1UpdateAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395conwaysummit1/previous/us395conwaysummit1-1.jpg",
+            "referenceImage2UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395conwaysummit1/previous/us395conwaysummit1-2.jpg",
+            "referenceImage3UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395conwaysummit1/previous/us395conwaysummit1-3.jpg",
+            "referenceImage4UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395conwaysummit1/previous/us395conwaysummit1-4.jpg",
+            "referenceImage5UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395conwaysummit1/previous/us395conwaysummit1-5.jpg",
+            "referenceImage6UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395conwaysummit1/previous/us395conwaysummit1-6.jpg",
+            "referenceImage7UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395conwaysummit1/previous/us395conwaysummit1-7.jpg",
+            "referenceImage8UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395conwaysummit1/previous/us395conwaysummit1-8.jpg",
+            "referenceImage9UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395conwaysummit1/previous/us395conwaysummit1-9.jpg",
+            "referenceImage10UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395conwaysummit1/previous/us395conwaysummit1-10.jpg",
+            "referenceImage11UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395conwaysummit1/previous/us395conwaysummit1-11.jpg",
+            "referenceImage12UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395conwaysummit1/previous/us395conwaysummit1-12.jpg"
+          }
+        }
+      }
+    },
+    {
+      "cctv": {
+        "index": "9",
+        "recordTimestamp": {
+          "recordDate": "2020-11-13",
+          "recordTime": "14:29:19",
+          "recordEpoch": "1605306559"
+        },
+        "location": {
+          "district": "9",
+          "locationName": "US-395 : Conway Summit 2",
+          "nearbyPlace": "Lee Vining",
+          "longitude": "-119.181251",
+          "latitude": "38.08782",
+          "elevation": "8149",
+          "direction": "North",
+          "county": "Mono",
+          "route": "US-395",
+          "routeSuffix": "",
+          "postmilePrefix": "",
+          "postmile": "63.54",
+          "alignment": "",
+          "milepost": "297.14"
+        },
+        "inService": "true",
+        "imageData": {
+          "imageDescription": "Looking South South West",
+          "streamingVideoURL": "",
+          "static": {
+            "currentImageUpdateFrequency": "20",
+            "currentImageURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395conwaysummit2/us395conwaysummit2.jpg",
+            "referenceImageUpdateFrequency": "60",
+            "referenceImage1UpdateAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395conwaysummit2/previous/us395conwaysummit2-1.jpg",
+            "referenceImage2UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395conwaysummit2/previous/us395conwaysummit2-2.jpg",
+            "referenceImage3UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395conwaysummit2/previous/us395conwaysummit2-3.jpg",
+            "referenceImage4UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395conwaysummit2/previous/us395conwaysummit2-4.jpg",
+            "referenceImage5UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395conwaysummit2/previous/us395conwaysummit2-5.jpg",
+            "referenceImage6UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395conwaysummit2/previous/us395conwaysummit2-6.jpg",
+            "referenceImage7UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395conwaysummit2/previous/us395conwaysummit2-7.jpg",
+            "referenceImage8UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395conwaysummit2/previous/us395conwaysummit2-8.jpg",
+            "referenceImage9UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395conwaysummit2/previous/us395conwaysummit2-9.jpg",
+            "referenceImage10UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395conwaysummit2/previous/us395conwaysummit2-10.jpg",
+            "referenceImage11UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395conwaysummit2/previous/us395conwaysummit2-11.jpg",
+            "referenceImage12UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395conwaysummit2/previous/us395conwaysummit2-12.jpg"
+          }
+        }
+      }
+    },
+    {
+      "cctv": {
+        "index": "10",
+        "recordTimestamp": {
+          "recordDate": "2020-11-13",
+          "recordTime": "14:29:30",
+          "recordEpoch": "1605306570"
+        },
+        "location": {
+          "district": "9",
+          "locationName": "US-395 : Conway Summit 3",
+          "nearbyPlace": "Lee Vining",
+          "longitude": "-119.181251",
+          "latitude": "38.08782",
+          "elevation": "8149",
+          "direction": "North",
+          "county": "Mono",
+          "route": "US-395",
+          "routeSuffix": "",
+          "postmilePrefix": "",
+          "postmile": "63.54",
+          "alignment": "",
+          "milepost": "297.14"
+        },
+        "inService": "true",
+        "imageData": {
+          "imageDescription": "Looking North",
+          "streamingVideoURL": "",
+          "static": {
+            "currentImageUpdateFrequency": "20",
+            "currentImageURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395conwaysummit3/us395conwaysummit3.jpg",
+            "referenceImageUpdateFrequency": "60",
+            "referenceImage1UpdateAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395conwaysummit3/previous/us395conwaysummit3-1.jpg",
+            "referenceImage2UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395conwaysummit3/previous/us395conwaysummit3-2.jpg",
+            "referenceImage3UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395conwaysummit3/previous/us395conwaysummit3-3.jpg",
+            "referenceImage4UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395conwaysummit3/previous/us395conwaysummit3-4.jpg",
+            "referenceImage5UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395conwaysummit3/previous/us395conwaysummit3-5.jpg",
+            "referenceImage6UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395conwaysummit3/previous/us395conwaysummit3-6.jpg",
+            "referenceImage7UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395conwaysummit3/previous/us395conwaysummit3-7.jpg",
+            "referenceImage8UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395conwaysummit3/previous/us395conwaysummit3-8.jpg",
+            "referenceImage9UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395conwaysummit3/previous/us395conwaysummit3-9.jpg",
+            "referenceImage10UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395conwaysummit3/previous/us395conwaysummit3-10.jpg",
+            "referenceImage11UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395conwaysummit3/previous/us395conwaysummit3-11.jpg",
+            "referenceImage12UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395conwaysummit3/previous/us395conwaysummit3-12.jpg"
+          }
+        }
+      }
+    },
+    {
+      "cctv": {
+        "index": "11",
+        "recordTimestamp": {
+          "recordDate": "2020-11-13",
+          "recordTime": "14:29:41",
+          "recordEpoch": "1605306581"
+        },
+        "location": {
+          "district": "9",
+          "locationName": "US-395 : Conway Summit 4",
+          "nearbyPlace": "Lee Vining",
+          "longitude": "-119.181251",
+          "latitude": "38.08782",
+          "elevation": "8149",
+          "direction": "North",
+          "county": "Mono",
+          "route": "US-395",
+          "routeSuffix": "",
+          "postmilePrefix": "",
+          "postmile": "63.54",
+          "alignment": "",
+          "milepost": "297.14"
+        },
+        "inService": "true",
+        "imageData": {
+          "imageDescription": "Looking West",
+          "streamingVideoURL": "",
+          "static": {
+            "currentImageUpdateFrequency": "20",
+            "currentImageURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395conwaysummit4/us395conwaysummit4.jpg",
+            "referenceImageUpdateFrequency": "60",
+            "referenceImage1UpdateAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395conwaysummit4/previous/us395conwaysummit4-1.jpg",
+            "referenceImage2UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395conwaysummit4/previous/us395conwaysummit4-2.jpg",
+            "referenceImage3UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395conwaysummit4/previous/us395conwaysummit4-3.jpg",
+            "referenceImage4UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395conwaysummit4/previous/us395conwaysummit4-4.jpg",
+            "referenceImage5UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395conwaysummit4/previous/us395conwaysummit4-5.jpg",
+            "referenceImage6UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395conwaysummit4/previous/us395conwaysummit4-6.jpg",
+            "referenceImage7UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395conwaysummit4/previous/us395conwaysummit4-7.jpg",
+            "referenceImage8UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395conwaysummit4/previous/us395conwaysummit4-8.jpg",
+            "referenceImage9UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395conwaysummit4/previous/us395conwaysummit4-9.jpg",
+            "referenceImage10UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395conwaysummit4/previous/us395conwaysummit4-10.jpg",
+            "referenceImage11UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395conwaysummit4/previous/us395conwaysummit4-11.jpg",
+            "referenceImage12UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395conwaysummit4/previous/us395conwaysummit4-12.jpg"
+          }
+        }
+      }
+    },
+    {
+      "cctv": {
+        "index": "12",
+        "recordTimestamp": {
+          "recordDate": "2020-11-13",
+          "recordTime": "14:29:53",
+          "recordEpoch": "1605306593"
+        },
+        "location": {
+          "district": "9",
+          "locationName": "US-395 : Conway Summit 5",
+          "nearbyPlace": "Lee Vining",
+          "longitude": "-119.181251",
+          "latitude": "38.08782",
+          "elevation": "8149",
+          "direction": "North",
+          "county": "Mono",
+          "route": "US-395",
+          "routeSuffix": "",
+          "postmilePrefix": "",
+          "postmile": "63.54",
+          "alignment": "",
+          "milepost": "297.14"
+        },
+        "inService": "true",
+        "imageData": {
+          "imageDescription": "Looking West North West",
+          "streamingVideoURL": "",
+          "static": {
+            "currentImageUpdateFrequency": "20",
+            "currentImageURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395conwaysummit5/us395conwaysummit5.jpg",
+            "referenceImageUpdateFrequency": "60",
+            "referenceImage1UpdateAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395conwaysummit5/previous/us395conwaysummit5-1.jpg",
+            "referenceImage2UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395conwaysummit5/previous/us395conwaysummit5-2.jpg",
+            "referenceImage3UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395conwaysummit5/previous/us395conwaysummit5-3.jpg",
+            "referenceImage4UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395conwaysummit5/previous/us395conwaysummit5-4.jpg",
+            "referenceImage5UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395conwaysummit5/previous/us395conwaysummit5-5.jpg",
+            "referenceImage6UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395conwaysummit5/previous/us395conwaysummit5-6.jpg",
+            "referenceImage7UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395conwaysummit5/previous/us395conwaysummit5-7.jpg",
+            "referenceImage8UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395conwaysummit5/previous/us395conwaysummit5-8.jpg",
+            "referenceImage9UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395conwaysummit5/previous/us395conwaysummit5-9.jpg",
+            "referenceImage10UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395conwaysummit5/previous/us395conwaysummit5-10.jpg",
+            "referenceImage11UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395conwaysummit5/previous/us395conwaysummit5-11.jpg",
+            "referenceImage12UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395conwaysummit5/previous/us395conwaysummit5-12.jpg"
+          }
+        }
+      }
+    },
+    {
+      "cctv": {
+        "index": "13",
+        "recordTimestamp": {
+          "recordDate": "2020-11-13",
+          "recordTime": "14:30:02",
+          "recordEpoch": "1605306602"
+        },
+        "location": {
+          "district": "9",
+          "locationName": "US-395 : Conway Summit 6",
+          "nearbyPlace": "Lee Vining",
+          "longitude": "-119.181251",
+          "latitude": "38.08782",
+          "elevation": "8149",
+          "direction": "North",
+          "county": "Mono",
+          "route": "US-395",
+          "routeSuffix": "",
+          "postmilePrefix": "",
+          "postmile": "63.54",
+          "alignment": "",
+          "milepost": "297.14"
+        },
+        "inService": "true",
+        "imageData": {
+          "imageDescription": "Looking North",
+          "streamingVideoURL": "",
+          "static": {
+            "currentImageUpdateFrequency": "20",
+            "currentImageURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395conwaysummit6/us395conwaysummit6.jpg",
+            "referenceImageUpdateFrequency": "60",
+            "referenceImage1UpdateAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395conwaysummit6/previous/us395conwaysummit6-1.jpg",
+            "referenceImage2UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395conwaysummit6/previous/us395conwaysummit6-2.jpg",
+            "referenceImage3UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395conwaysummit6/previous/us395conwaysummit6-3.jpg",
+            "referenceImage4UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395conwaysummit6/previous/us395conwaysummit6-4.jpg",
+            "referenceImage5UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395conwaysummit6/previous/us395conwaysummit6-5.jpg",
+            "referenceImage6UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395conwaysummit6/previous/us395conwaysummit6-6.jpg",
+            "referenceImage7UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395conwaysummit6/previous/us395conwaysummit6-7.jpg",
+            "referenceImage8UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395conwaysummit6/previous/us395conwaysummit6-8.jpg",
+            "referenceImage9UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395conwaysummit6/previous/us395conwaysummit6-9.jpg",
+            "referenceImage10UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395conwaysummit6/previous/us395conwaysummit6-10.jpg",
+            "referenceImage11UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395conwaysummit6/previous/us395conwaysummit6-11.jpg",
+            "referenceImage12UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395conwaysummit6/previous/us395conwaysummit6-12.jpg"
+          }
+        }
+      }
+    },
+    {
+      "cctv": {
+        "index": "15",
+        "recordTimestamp": {
+          "recordDate": "2020-11-30",
+          "recordTime": "17:24:46",
+          "recordEpoch": "1606785886"
+        },
+        "location": {
+          "district": "9",
+          "locationName": "US-395 : Coso Rest Area 1",
+          "nearbyPlace": "Olancha",
+          "longitude": "-117.946836",
+          "latitude": "36.04605",
+          "elevation": "3389",
+          "direction": "North",
+          "county": "Inyo",
+          "route": "US-395",
+          "routeSuffix": "",
+          "postmilePrefix": "R",
+          "postmile": "17.87",
+          "alignment": "",
+          "milepost": "123.09"
+        },
+        "inService": "true",
+        "imageData": {
+          "imageDescription": "Park",
+          "streamingVideoURL": "",
+          "static": {
+            "currentImageUpdateFrequency": "20",
+            "currentImageURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395cosorestarea1/us395cosorestarea1.jpg",
+            "referenceImageUpdateFrequency": "60",
+            "referenceImage1UpdateAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395cosorestarea1/previous/us395cosorestarea1-1.jpg",
+            "referenceImage2UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395cosorestarea1/previous/us395cosorestarea1-2.jpg",
+            "referenceImage3UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395cosorestarea1/previous/us395cosorestarea1-3.jpg",
+            "referenceImage4UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395cosorestarea1/previous/us395cosorestarea1-4.jpg",
+            "referenceImage5UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395cosorestarea1/previous/us395cosorestarea1-5.jpg",
+            "referenceImage6UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395cosorestarea1/previous/us395cosorestarea1-6.jpg",
+            "referenceImage7UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395cosorestarea1/previous/us395cosorestarea1-7.jpg",
+            "referenceImage8UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395cosorestarea1/previous/us395cosorestarea1-8.jpg",
+            "referenceImage9UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395cosorestarea1/previous/us395cosorestarea1-9.jpg",
+            "referenceImage10UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395cosorestarea1/previous/us395cosorestarea1-10.jpg",
+            "referenceImage11UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395cosorestarea1/previous/us395cosorestarea1-11.jpg",
+            "referenceImage12UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395cosorestarea1/previous/us395cosorestarea1-12.jpg"
+          }
+        }
+      }
+    },
+    {
+      "cctv": {
+        "index": "16",
+        "recordTimestamp": {
+          "recordDate": "2020-11-30",
+          "recordTime": "17:25:01",
+          "recordEpoch": "1606785901"
+        },
+        "location": {
+          "district": "9",
+          "locationName": "US-395 : Coso Rest Area 2",
+          "nearbyPlace": "Olancha",
+          "longitude": "-117.946836",
+          "latitude": "36.04605",
+          "elevation": "3389",
+          "direction": "North",
+          "county": "Inyo",
+          "route": "US-395",
+          "routeSuffix": "",
+          "postmilePrefix": "R",
+          "postmile": "17.87",
+          "alignment": "",
+          "milepost": "123.09"
+        },
+        "inService": "true",
+        "imageData": {
+          "imageDescription": "Looking East",
+          "streamingVideoURL": "",
+          "static": {
+            "currentImageUpdateFrequency": "20",
+            "currentImageURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395cosorestarea2/us395cosorestarea2.jpg",
+            "referenceImageUpdateFrequency": "60",
+            "referenceImage1UpdateAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395cosorestarea2/previous/us395cosorestarea2-1.jpg",
+            "referenceImage2UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395cosorestarea2/previous/us395cosorestarea2-2.jpg",
+            "referenceImage3UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395cosorestarea2/previous/us395cosorestarea2-3.jpg",
+            "referenceImage4UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395cosorestarea2/previous/us395cosorestarea2-4.jpg",
+            "referenceImage5UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395cosorestarea2/previous/us395cosorestarea2-5.jpg",
+            "referenceImage6UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395cosorestarea2/previous/us395cosorestarea2-6.jpg",
+            "referenceImage7UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395cosorestarea2/previous/us395cosorestarea2-7.jpg",
+            "referenceImage8UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395cosorestarea2/previous/us395cosorestarea2-8.jpg",
+            "referenceImage9UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395cosorestarea2/previous/us395cosorestarea2-9.jpg",
+            "referenceImage10UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395cosorestarea2/previous/us395cosorestarea2-10.jpg",
+            "referenceImage11UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395cosorestarea2/previous/us395cosorestarea2-11.jpg",
+            "referenceImage12UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395cosorestarea2/previous/us395cosorestarea2-12.jpg"
+          }
+        }
+      }
+    },
+    {
+      "cctv": {
+        "index": "17",
+        "recordTimestamp": {
+          "recordDate": "2020-11-30",
+          "recordTime": "17:25:19",
+          "recordEpoch": "1606785919"
+        },
+        "location": {
+          "district": "9",
+          "locationName": "US-395 : Coso Rest Area 3",
+          "nearbyPlace": "Olancha",
+          "longitude": "-117.946836",
+          "latitude": "36.04605",
+          "elevation": "3389",
+          "direction": "North",
+          "county": "Inyo",
+          "route": "US-395",
+          "routeSuffix": "",
+          "postmilePrefix": "R",
+          "postmile": "17.87",
+          "alignment": "",
+          "milepost": "123.09"
+        },
+        "inService": "true",
+        "imageData": {
+          "imageDescription": "Looking West",
+          "streamingVideoURL": "",
+          "static": {
+            "currentImageUpdateFrequency": "20",
+            "currentImageURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395cosorestarea3/us395cosorestarea3.jpg",
+            "referenceImageUpdateFrequency": "60",
+            "referenceImage1UpdateAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395cosorestarea3/previous/us395cosorestarea3-1.jpg",
+            "referenceImage2UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395cosorestarea3/previous/us395cosorestarea3-2.jpg",
+            "referenceImage3UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395cosorestarea3/previous/us395cosorestarea3-3.jpg",
+            "referenceImage4UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395cosorestarea3/previous/us395cosorestarea3-4.jpg",
+            "referenceImage5UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395cosorestarea3/previous/us395cosorestarea3-5.jpg",
+            "referenceImage6UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395cosorestarea3/previous/us395cosorestarea3-6.jpg",
+            "referenceImage7UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395cosorestarea3/previous/us395cosorestarea3-7.jpg",
+            "referenceImage8UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395cosorestarea3/previous/us395cosorestarea3-8.jpg",
+            "referenceImage9UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395cosorestarea3/previous/us395cosorestarea3-9.jpg",
+            "referenceImage10UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395cosorestarea3/previous/us395cosorestarea3-10.jpg",
+            "referenceImage11UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395cosorestarea3/previous/us395cosorestarea3-11.jpg",
+            "referenceImage12UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395cosorestarea3/previous/us395cosorestarea3-12.jpg"
+          }
+        }
+      }
+    },
+    {
+      "cctv": {
+        "index": "18",
+        "recordTimestamp": {
+          "recordDate": "2020-11-30",
+          "recordTime": "17:25:32",
+          "recordEpoch": "1606785932"
+        },
+        "location": {
+          "district": "9",
+          "locationName": "US-395 : Coso Rest Area 4",
+          "nearbyPlace": "Olancha",
+          "longitude": "-117.946836",
+          "latitude": "36.04605",
+          "elevation": "3389",
+          "direction": "North",
+          "county": "Inyo",
+          "route": "US-395",
+          "routeSuffix": "",
+          "postmilePrefix": "R",
+          "postmile": "17.87",
+          "alignment": "",
+          "milepost": "123.09"
+        },
+        "inService": "true",
+        "imageData": {
+          "imageDescription": "Looking North",
+          "streamingVideoURL": "",
+          "static": {
+            "currentImageUpdateFrequency": "20",
+            "currentImageURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395cosorestarea4/us395cosorestarea4.jpg",
+            "referenceImageUpdateFrequency": "60",
+            "referenceImage1UpdateAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395cosorestarea4/previous/us395cosorestarea4-1.jpg",
+            "referenceImage2UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395cosorestarea4/previous/us395cosorestarea4-2.jpg",
+            "referenceImage3UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395cosorestarea4/previous/us395cosorestarea4-3.jpg",
+            "referenceImage4UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395cosorestarea4/previous/us395cosorestarea4-4.jpg",
+            "referenceImage5UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395cosorestarea4/previous/us395cosorestarea4-5.jpg",
+            "referenceImage6UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395cosorestarea4/previous/us395cosorestarea4-6.jpg",
+            "referenceImage7UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395cosorestarea4/previous/us395cosorestarea4-7.jpg",
+            "referenceImage8UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395cosorestarea4/previous/us395cosorestarea4-8.jpg",
+            "referenceImage9UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395cosorestarea4/previous/us395cosorestarea4-9.jpg",
+            "referenceImage10UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395cosorestarea4/previous/us395cosorestarea4-10.jpg",
+            "referenceImage11UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395cosorestarea4/previous/us395cosorestarea4-11.jpg",
+            "referenceImage12UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395cosorestarea4/previous/us395cosorestarea4-12.jpg"
+          }
+        }
+      }
+    },
+    {
+      "cctv": {
+        "index": "22",
+        "recordTimestamp": {
+          "recordDate": "2020-11-09",
+          "recordTime": "17:43:47",
+          "recordEpoch": "1604972627"
+        },
+        "location": {
+          "district": "9",
+          "locationName": "US-6 : State Line 1",
+          "nearbyPlace": "Benton",
+          "longitude": "-118.47842",
+          "latitude": "37.842159",
+          "elevation": "5472",
+          "direction": "West",
+          "county": "Mono",
+          "route": "US-6",
+          "routeSuffix": "",
+          "postmilePrefix": "",
+          "postmile": "27.36",
+          "alignment": "",
+          "milepost": "35.58"
+        },
+        "inService": "true",
+        "imageData": {
+          "imageDescription": "Looking South",
+          "streamingVideoURL": "",
+          "static": {
+            "currentImageUpdateFrequency": "20",
+            "currentImageURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us6stateline1/us6stateline1.jpg",
+            "referenceImageUpdateFrequency": "60",
+            "referenceImage1UpdateAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us6stateline1/previous/us6stateline1-1.jpg",
+            "referenceImage2UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us6stateline1/previous/us6stateline1-2.jpg",
+            "referenceImage3UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us6stateline1/previous/us6stateline1-3.jpg",
+            "referenceImage4UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us6stateline1/previous/us6stateline1-4.jpg",
+            "referenceImage5UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us6stateline1/previous/us6stateline1-5.jpg",
+            "referenceImage6UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us6stateline1/previous/us6stateline1-6.jpg",
+            "referenceImage7UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us6stateline1/previous/us6stateline1-7.jpg",
+            "referenceImage8UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us6stateline1/previous/us6stateline1-8.jpg",
+            "referenceImage9UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us6stateline1/previous/us6stateline1-9.jpg",
+            "referenceImage10UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us6stateline1/previous/us6stateline1-10.jpg",
+            "referenceImage11UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us6stateline1/previous/us6stateline1-11.jpg",
+            "referenceImage12UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us6stateline1/previous/us6stateline1-12.jpg"
+          }
+        }
+      }
+    },
+    {
+      "cctv": {
+        "index": "23",
+        "recordTimestamp": {
+          "recordDate": "2020-11-30",
+          "recordTime": "17:21:08",
+          "recordEpoch": "1606785668"
+        },
+        "location": {
+          "district": "9",
+          "locationName": "US-6 : State Line 2",
+          "nearbyPlace": "Benton",
+          "longitude": "-118.47842",
+          "latitude": "37.842159",
+          "elevation": "5472",
+          "direction": "West",
+          "county": "Mono",
+          "route": "US-6",
+          "routeSuffix": "",
+          "postmilePrefix": "",
+          "postmile": "27.36",
+          "alignment": "",
+          "milepost": "35.58"
+        },
+        "inService": "true",
+        "imageData": {
+          "imageDescription": "Looking South West",
+          "streamingVideoURL": "",
+          "static": {
+            "currentImageUpdateFrequency": "20",
+            "currentImageURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us6stateline2/us6stateline2.jpg",
+            "referenceImageUpdateFrequency": "60",
+            "referenceImage1UpdateAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us6stateline2/previous/us6stateline2-1.jpg",
+            "referenceImage2UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us6stateline2/previous/us6stateline2-2.jpg",
+            "referenceImage3UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us6stateline2/previous/us6stateline2-3.jpg",
+            "referenceImage4UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us6stateline2/previous/us6stateline2-4.jpg",
+            "referenceImage5UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us6stateline2/previous/us6stateline2-5.jpg",
+            "referenceImage6UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us6stateline2/previous/us6stateline2-6.jpg",
+            "referenceImage7UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us6stateline2/previous/us6stateline2-7.jpg",
+            "referenceImage8UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us6stateline2/previous/us6stateline2-8.jpg",
+            "referenceImage9UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us6stateline2/previous/us6stateline2-9.jpg",
+            "referenceImage10UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us6stateline2/previous/us6stateline2-10.jpg",
+            "referenceImage11UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us6stateline2/previous/us6stateline2-11.jpg",
+            "referenceImage12UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us6stateline2/previous/us6stateline2-12.jpg"
+          }
+        }
+      }
+    },
+    {
+      "cctv": {
+        "index": "24",
+        "recordTimestamp": {
+          "recordDate": "2020-11-30",
+          "recordTime": "17:21:21",
+          "recordEpoch": "1606785681"
+        },
+        "location": {
+          "district": "9",
+          "locationName": "US-6 : State Line 3",
+          "nearbyPlace": "Benton",
+          "longitude": "-118.47842",
+          "latitude": "37.842159",
+          "elevation": "5472",
+          "direction": "West",
+          "county": "Mono",
+          "route": "US-6",
+          "routeSuffix": "",
+          "postmilePrefix": "",
+          "postmile": "27.36",
+          "alignment": "",
+          "milepost": "35.58"
+        },
+        "inService": "true",
+        "imageData": {
+          "imageDescription": "Looking West",
+          "streamingVideoURL": "",
+          "static": {
+            "currentImageUpdateFrequency": "20",
+            "currentImageURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us6stateline3/us6stateline3.jpg",
+            "referenceImageUpdateFrequency": "60",
+            "referenceImage1UpdateAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us6stateline3/previous/us6stateline3-1.jpg",
+            "referenceImage2UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us6stateline3/previous/us6stateline3-2.jpg",
+            "referenceImage3UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us6stateline3/previous/us6stateline3-3.jpg",
+            "referenceImage4UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us6stateline3/previous/us6stateline3-4.jpg",
+            "referenceImage5UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us6stateline3/previous/us6stateline3-5.jpg",
+            "referenceImage6UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us6stateline3/previous/us6stateline3-6.jpg",
+            "referenceImage7UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us6stateline3/previous/us6stateline3-7.jpg",
+            "referenceImage8UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us6stateline3/previous/us6stateline3-8.jpg",
+            "referenceImage9UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us6stateline3/previous/us6stateline3-9.jpg",
+            "referenceImage10UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us6stateline3/previous/us6stateline3-10.jpg",
+            "referenceImage11UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us6stateline3/previous/us6stateline3-11.jpg",
+            "referenceImage12UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us6stateline3/previous/us6stateline3-12.jpg"
+          }
+        }
+      }
+    },
+    {
+      "cctv": {
+        "index": "25",
+        "recordTimestamp": {
+          "recordDate": "2020-11-30",
+          "recordTime": "17:21:34",
+          "recordEpoch": "1606785694"
+        },
+        "location": {
+          "district": "9",
+          "locationName": "US-6 : State Line 4",
+          "nearbyPlace": "Benton",
+          "longitude": "-118.47842",
+          "latitude": "37.842159",
+          "elevation": "5472",
+          "direction": "West",
+          "county": "Mono",
+          "route": "US-6",
+          "routeSuffix": "",
+          "postmilePrefix": "",
+          "postmile": "27.36",
+          "alignment": "",
+          "milepost": "35.58"
+        },
+        "inService": "true",
+        "imageData": {
+          "imageDescription": "Looking North",
+          "streamingVideoURL": "",
+          "static": {
+            "currentImageUpdateFrequency": "20",
+            "currentImageURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us6stateline4/us6stateline4.jpg",
+            "referenceImageUpdateFrequency": "60",
+            "referenceImage1UpdateAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us6stateline4/previous/us6stateline4-1.jpg",
+            "referenceImage2UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us6stateline4/previous/us6stateline4-2.jpg",
+            "referenceImage3UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us6stateline4/previous/us6stateline4-3.jpg",
+            "referenceImage4UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us6stateline4/previous/us6stateline4-4.jpg",
+            "referenceImage5UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us6stateline4/previous/us6stateline4-5.jpg",
+            "referenceImage6UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us6stateline4/previous/us6stateline4-6.jpg",
+            "referenceImage7UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us6stateline4/previous/us6stateline4-7.jpg",
+            "referenceImage8UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us6stateline4/previous/us6stateline4-8.jpg",
+            "referenceImage9UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us6stateline4/previous/us6stateline4-9.jpg",
+            "referenceImage10UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us6stateline4/previous/us6stateline4-10.jpg",
+            "referenceImage11UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us6stateline4/previous/us6stateline4-11.jpg",
+            "referenceImage12UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us6stateline4/previous/us6stateline4-12.jpg"
+          }
+        }
+      }
+    },
+    {
+      "cctv": {
+        "index": "26",
+        "recordTimestamp": {
+          "recordDate": "2020-11-30",
+          "recordTime": "17:21:47",
+          "recordEpoch": "1606785707"
+        },
+        "location": {
+          "district": "9",
+          "locationName": "US-6 : State Line 5",
+          "nearbyPlace": "Benton",
+          "longitude": "-118.47842",
+          "latitude": "37.842159",
+          "elevation": "5472",
+          "direction": "West",
+          "county": "Mono",
+          "route": "US-6",
+          "routeSuffix": "",
+          "postmilePrefix": "",
+          "postmile": "27.36",
+          "alignment": "",
+          "milepost": "35.58"
+        },
+        "inService": "true",
+        "imageData": {
+          "imageDescription": "Looking North",
+          "streamingVideoURL": "",
+          "static": {
+            "currentImageUpdateFrequency": "20",
+            "currentImageURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us6stateline5/us6stateline5.jpg",
+            "referenceImageUpdateFrequency": "60",
+            "referenceImage1UpdateAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us6stateline5/previous/us6stateline5-1.jpg",
+            "referenceImage2UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us6stateline5/previous/us6stateline5-2.jpg",
+            "referenceImage3UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us6stateline5/previous/us6stateline5-3.jpg",
+            "referenceImage4UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us6stateline5/previous/us6stateline5-4.jpg",
+            "referenceImage5UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us6stateline5/previous/us6stateline5-5.jpg",
+            "referenceImage6UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us6stateline5/previous/us6stateline5-6.jpg",
+            "referenceImage7UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us6stateline5/previous/us6stateline5-7.jpg",
+            "referenceImage8UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us6stateline5/previous/us6stateline5-8.jpg",
+            "referenceImage9UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us6stateline5/previous/us6stateline5-9.jpg",
+            "referenceImage10UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us6stateline5/previous/us6stateline5-10.jpg",
+            "referenceImage11UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us6stateline5/previous/us6stateline5-11.jpg",
+            "referenceImage12UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us6stateline5/previous/us6stateline5-12.jpg"
+          }
+        }
+      }
+    },
+    {
+      "cctv": {
+        "index": "27",
+        "recordTimestamp": {
+          "recordDate": "2020-11-30",
+          "recordTime": "17:22:04",
+          "recordEpoch": "1606785724"
+        },
+        "location": {
+          "district": "9",
+          "locationName": "US-6 : State Line 6",
+          "nearbyPlace": "Benton",
+          "longitude": "-118.47842",
+          "latitude": "37.842159",
+          "elevation": "5472",
+          "direction": "West",
+          "county": "Mono",
+          "route": "US-6",
+          "routeSuffix": "",
+          "postmilePrefix": "",
+          "postmile": "27.36",
+          "alignment": "",
+          "milepost": "35.58"
+        },
+        "inService": "true",
+        "imageData": {
+          "imageDescription": "Montgomery Pass",
+          "streamingVideoURL": "",
+          "static": {
+            "currentImageUpdateFrequency": "20",
+            "currentImageURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us6stateline6/us6stateline6.jpg",
+            "referenceImageUpdateFrequency": "60",
+            "referenceImage1UpdateAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us6stateline6/previous/us6stateline6-1.jpg",
+            "referenceImage2UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us6stateline6/previous/us6stateline6-2.jpg",
+            "referenceImage3UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us6stateline6/previous/us6stateline6-3.jpg",
+            "referenceImage4UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us6stateline6/previous/us6stateline6-4.jpg",
+            "referenceImage5UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us6stateline6/previous/us6stateline6-5.jpg",
+            "referenceImage6UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us6stateline6/previous/us6stateline6-6.jpg",
+            "referenceImage7UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us6stateline6/previous/us6stateline6-7.jpg",
+            "referenceImage8UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us6stateline6/previous/us6stateline6-8.jpg",
+            "referenceImage9UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us6stateline6/previous/us6stateline6-9.jpg",
+            "referenceImage10UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us6stateline6/previous/us6stateline6-10.jpg",
+            "referenceImage11UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us6stateline6/previous/us6stateline6-11.jpg",
+            "referenceImage12UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us6stateline6/previous/us6stateline6-12.jpg"
+          }
+        }
+      }
+    },
+    {
+      "cctv": {
+        "index": "29",
+        "recordTimestamp": {
+          "recordDate": "2020-11-03",
+          "recordTime": "10:34:29",
+          "recordEpoch": "1604428469"
+        },
+        "location": {
+          "district": "9",
+          "locationName": "US-395 : Lone Pine 4",
+          "nearbyPlace": "Lone Pine",
+          "longitude": "-118.06649",
+          "latitude": "36.61399",
+          "elevation": "3713",
+          "direction": "South",
+          "county": "Inyo",
+          "route": "US-395",
+          "routeSuffix": "",
+          "postmilePrefix": "R",
+          "postmile": "58.37",
+          "alignment": "",
+          "milepost": "163.56"
+        },
+        "inService": "true",
+        "imageData": {
+          "imageDescription": "Looking North",
+          "streamingVideoURL": "",
+          "static": {
+            "currentImageUpdateFrequency": "15",
+            "currentImageURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395lonepine4/us395lonepine4.jpg",
+            "referenceImageUpdateFrequency": "60",
+            "referenceImage1UpdateAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395lonepine4/previous/us395lonepine4-1.jpg",
+            "referenceImage2UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395lonepine4/previous/us395lonepine4-2.jpg",
+            "referenceImage3UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395lonepine4/previous/us395lonepine4-3.jpg",
+            "referenceImage4UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395lonepine4/previous/us395lonepine4-4.jpg",
+            "referenceImage5UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395lonepine4/previous/us395lonepine4-5.jpg",
+            "referenceImage6UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395lonepine4/previous/us395lonepine4-6.jpg",
+            "referenceImage7UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395lonepine4/previous/us395lonepine4-7.jpg",
+            "referenceImage8UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395lonepine4/previous/us395lonepine4-8.jpg",
+            "referenceImage9UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395lonepine4/previous/us395lonepine4-9.jpg",
+            "referenceImage10UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395lonepine4/previous/us395lonepine4-10.jpg",
+            "referenceImage11UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395lonepine4/previous/us395lonepine4-11.jpg",
+            "referenceImage12UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395lonepine4/previous/us395lonepine4-12.jpg"
+          }
+        }
+      }
+    },
+    {
+      "cctv": {
+        "index": "30",
+        "recordTimestamp": {
+          "recordDate": "2020-11-03",
+          "recordTime": "10:34:41",
+          "recordEpoch": "1604428481"
+        },
+        "location": {
+          "district": "9",
+          "locationName": "US-395 : Lone Pine 3",
+          "nearbyPlace": "Lone Pine",
+          "longitude": "-118.06649",
+          "latitude": "36.61399",
+          "elevation": "3713",
+          "direction": "South",
+          "county": "Inyo",
+          "route": "US-395",
+          "routeSuffix": "",
+          "postmilePrefix": "R",
+          "postmile": "58.37",
+          "alignment": "",
+          "milepost": "163.56"
+        },
+        "inService": "true",
+        "imageData": {
+          "imageDescription": "Looking South",
+          "streamingVideoURL": "",
+          "static": {
+            "currentImageUpdateFrequency": "15",
+            "currentImageURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395lonepine3/us395lonepine3.jpg",
+            "referenceImageUpdateFrequency": "60",
+            "referenceImage1UpdateAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395lonepine3/previous/us395lonepine3-1.jpg",
+            "referenceImage2UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395lonepine3/previous/us395lonepine3-2.jpg",
+            "referenceImage3UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395lonepine3/previous/us395lonepine3-3.jpg",
+            "referenceImage4UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395lonepine3/previous/us395lonepine3-4.jpg",
+            "referenceImage5UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395lonepine3/previous/us395lonepine3-5.jpg",
+            "referenceImage6UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395lonepine3/previous/us395lonepine3-6.jpg",
+            "referenceImage7UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395lonepine3/previous/us395lonepine3-7.jpg",
+            "referenceImage8UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395lonepine3/previous/us395lonepine3-8.jpg",
+            "referenceImage9UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395lonepine3/previous/us395lonepine3-9.jpg",
+            "referenceImage10UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395lonepine3/previous/us395lonepine3-10.jpg",
+            "referenceImage11UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395lonepine3/previous/us395lonepine3-11.jpg",
+            "referenceImage12UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395lonepine3/previous/us395lonepine3-12.jpg"
+          }
+        }
+      }
+    },
+    {
+      "cctv": {
+        "index": "31",
+        "recordTimestamp": {
+          "recordDate": "2020-11-03",
+          "recordTime": "10:35:05",
+          "recordEpoch": "1604428505"
+        },
+        "location": {
+          "district": "9",
+          "locationName": "US-395 : Lone Pine 1",
+          "nearbyPlace": "Lone Pine",
+          "longitude": "-118.06649",
+          "latitude": "36.61399",
+          "elevation": "3713",
+          "direction": "South",
+          "county": "Inyo",
+          "route": "US-395",
+          "routeSuffix": "",
+          "postmilePrefix": "R",
+          "postmile": "58.37",
+          "alignment": "",
+          "milepost": "163.56"
+        },
+        "inService": "true",
+        "imageData": {
+          "imageDescription": "Aiguille Extra to Mt. Whitney",
+          "streamingVideoURL": "",
+          "static": {
+            "currentImageUpdateFrequency": "15",
+            "currentImageURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395lonepine1/us395lonepine1.jpg",
+            "referenceImageUpdateFrequency": "60",
+            "referenceImage1UpdateAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395lonepine1/previous/us395lonepine1-1.jpg",
+            "referenceImage2UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395lonepine1/previous/us395lonepine1-2.jpg",
+            "referenceImage3UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395lonepine1/previous/us395lonepine1-3.jpg",
+            "referenceImage4UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395lonepine1/previous/us395lonepine1-4.jpg",
+            "referenceImage5UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395lonepine1/previous/us395lonepine1-5.jpg",
+            "referenceImage6UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395lonepine1/previous/us395lonepine1-6.jpg",
+            "referenceImage7UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395lonepine1/previous/us395lonepine1-7.jpg",
+            "referenceImage8UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395lonepine1/previous/us395lonepine1-8.jpg",
+            "referenceImage9UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395lonepine1/previous/us395lonepine1-9.jpg",
+            "referenceImage10UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395lonepine1/previous/us395lonepine1-10.jpg",
+            "referenceImage11UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395lonepine1/previous/us395lonepine1-11.jpg",
+            "referenceImage12UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395lonepine1/previous/us395lonepine1-12.jpg"
+          }
+        }
+      }
+    },
+    {
+      "cctv": {
+        "index": "32",
+        "recordTimestamp": {
+          "recordDate": "2020-11-03",
+          "recordTime": "10:34:53",
+          "recordEpoch": "1604428493"
+        },
+        "location": {
+          "district": "9",
+          "locationName": "US-395 : Lone Pine 2",
+          "nearbyPlace": "Lone Pine",
+          "longitude": "-118.06649",
+          "latitude": "36.61399",
+          "elevation": "3713",
+          "direction": "South",
+          "county": "Inyo",
+          "route": "US-395",
+          "routeSuffix": "",
+          "postmilePrefix": "R",
+          "postmile": "58.37",
+          "alignment": "",
+          "milepost": "163.56"
+        },
+        "inService": "true",
+        "imageData": {
+          "imageDescription": "Lone Pine Peak to Mt. Whitney",
+          "streamingVideoURL": "",
+          "static": {
+            "currentImageUpdateFrequency": "15",
+            "currentImageURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395lonepine2/us395lonepine2.jpg",
+            "referenceImageUpdateFrequency": "60",
+            "referenceImage1UpdateAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395lonepine2/previous/us395lonepine2-1.jpg",
+            "referenceImage2UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395lonepine2/previous/us395lonepine2-2.jpg",
+            "referenceImage3UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395lonepine2/previous/us395lonepine2-3.jpg",
+            "referenceImage4UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395lonepine2/previous/us395lonepine2-4.jpg",
+            "referenceImage5UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395lonepine2/previous/us395lonepine2-5.jpg",
+            "referenceImage6UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395lonepine2/previous/us395lonepine2-6.jpg",
+            "referenceImage7UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395lonepine2/previous/us395lonepine2-7.jpg",
+            "referenceImage8UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395lonepine2/previous/us395lonepine2-8.jpg",
+            "referenceImage9UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395lonepine2/previous/us395lonepine2-9.jpg",
+            "referenceImage10UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395lonepine2/previous/us395lonepine2-10.jpg",
+            "referenceImage11UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395lonepine2/previous/us395lonepine2-11.jpg",
+            "referenceImage12UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395lonepine2/previous/us395lonepine2-12.jpg"
+          }
+        }
+      }
+    },
+    {
+      "cctv": {
+        "index": "33",
+        "recordTimestamp": {
+          "recordDate": "2020-09-02",
+          "recordTime": "15:47:41",
+          "recordEpoch": "1599086861"
+        },
+        "location": {
+          "district": "9",
+          "locationName": "US-395 : North of SR-14 1",
+          "nearbyPlace": "Inyokern",
+          "longitude": "-117.86918",
+          "latitude": "35.72336",
+          "elevation": "2522",
+          "direction": "South",
+          "county": "Kern",
+          "route": "US-395",
+          "routeSuffix": "",
+          "postmilePrefix": "R",
+          "postmile": "31.65",
+          "alignment": "",
+          "milepost": "100.06"
+        },
+        "inService": "true",
+        "imageData": {
+          "imageDescription": "Looking South",
+          "streamingVideoURL": "",
+          "static": {
+            "currentImageUpdateFrequency": "20",
+            "currentImageURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395northofsr141/us395northofsr141.jpg",
+            "referenceImageUpdateFrequency": "60",
+            "referenceImage1UpdateAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395northofsr141/previous/us395northofsr141-1.jpg",
+            "referenceImage2UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395northofsr141/previous/us395northofsr141-2.jpg",
+            "referenceImage3UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395northofsr141/previous/us395northofsr141-3.jpg",
+            "referenceImage4UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395northofsr141/previous/us395northofsr141-4.jpg",
+            "referenceImage5UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395northofsr141/previous/us395northofsr141-5.jpg",
+            "referenceImage6UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395northofsr141/previous/us395northofsr141-6.jpg",
+            "referenceImage7UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395northofsr141/previous/us395northofsr141-7.jpg",
+            "referenceImage8UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395northofsr141/previous/us395northofsr141-8.jpg",
+            "referenceImage9UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395northofsr141/previous/us395northofsr141-9.jpg",
+            "referenceImage10UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395northofsr141/previous/us395northofsr141-10.jpg",
+            "referenceImage11UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395northofsr141/previous/us395northofsr141-11.jpg",
+            "referenceImage12UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395northofsr141/previous/us395northofsr141-12.jpg"
+          }
+        }
+      }
+    },
+    {
+      "cctv": {
+        "index": "34",
+        "recordTimestamp": {
+          "recordDate": "2020-09-02",
+          "recordTime": "15:47:50",
+          "recordEpoch": "1599086870"
+        },
+        "location": {
+          "district": "9",
+          "locationName": "US-395 : North of SR-14 2",
+          "nearbyPlace": "Inyokern",
+          "longitude": "-117.86918",
+          "latitude": "35.72336",
+          "elevation": "2522",
+          "direction": "South",
+          "county": "Kern",
+          "route": "US-395",
+          "routeSuffix": "",
+          "postmilePrefix": "R",
+          "postmile": "31.65",
+          "alignment": "",
+          "milepost": "100.06"
+        },
+        "inService": "true",
+        "imageData": {
+          "imageDescription": "Looking South Zoom",
+          "streamingVideoURL": "",
+          "static": {
+            "currentImageUpdateFrequency": "20",
+            "currentImageURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395northofsr142/us395northofsr142.jpg",
+            "referenceImageUpdateFrequency": "60",
+            "referenceImage1UpdateAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395northofsr142/previous/us395northofsr142-1.jpg",
+            "referenceImage2UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395northofsr142/previous/us395northofsr142-2.jpg",
+            "referenceImage3UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395northofsr142/previous/us395northofsr142-3.jpg",
+            "referenceImage4UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395northofsr142/previous/us395northofsr142-4.jpg",
+            "referenceImage5UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395northofsr142/previous/us395northofsr142-5.jpg",
+            "referenceImage6UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395northofsr142/previous/us395northofsr142-6.jpg",
+            "referenceImage7UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395northofsr142/previous/us395northofsr142-7.jpg",
+            "referenceImage8UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395northofsr142/previous/us395northofsr142-8.jpg",
+            "referenceImage9UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395northofsr142/previous/us395northofsr142-9.jpg",
+            "referenceImage10UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395northofsr142/previous/us395northofsr142-10.jpg",
+            "referenceImage11UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395northofsr142/previous/us395northofsr142-11.jpg",
+            "referenceImage12UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395northofsr142/previous/us395northofsr142-12.jpg"
+          }
+        }
+      }
+    },
+    {
+      "cctv": {
+        "index": "35",
+        "recordTimestamp": {
+          "recordDate": "2020-11-03",
+          "recordTime": "10:32:06",
+          "recordEpoch": "1604428326"
+        },
+        "location": {
+          "district": "9",
+          "locationName": "US-395 : North of SR-14 4",
+          "nearbyPlace": "Inyokern",
+          "longitude": "-117.86918",
+          "latitude": "35.72336",
+          "elevation": "2522",
+          "direction": "South",
+          "county": "Kern",
+          "route": "US-395",
+          "routeSuffix": "",
+          "postmilePrefix": "R",
+          "postmile": "31.65",
+          "alignment": "",
+          "milepost": "100.06"
+        },
+        "inService": "true",
+        "imageData": {
+          "imageDescription": "Looking North",
+          "streamingVideoURL": "",
+          "static": {
+            "currentImageUpdateFrequency": "20",
+            "currentImageURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395northofsr144/us395northofsr144.jpg",
+            "referenceImageUpdateFrequency": "60",
+            "referenceImage1UpdateAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395northofsr144/previous/us395northofsr144-1.jpg",
+            "referenceImage2UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395northofsr144/previous/us395northofsr144-2.jpg",
+            "referenceImage3UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395northofsr144/previous/us395northofsr144-3.jpg",
+            "referenceImage4UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395northofsr144/previous/us395northofsr144-4.jpg",
+            "referenceImage5UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395northofsr144/previous/us395northofsr144-5.jpg",
+            "referenceImage6UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395northofsr144/previous/us395northofsr144-6.jpg",
+            "referenceImage7UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395northofsr144/previous/us395northofsr144-7.jpg",
+            "referenceImage8UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395northofsr144/previous/us395northofsr144-8.jpg",
+            "referenceImage9UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395northofsr144/previous/us395northofsr144-9.jpg",
+            "referenceImage10UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395northofsr144/previous/us395northofsr144-10.jpg",
+            "referenceImage11UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395northofsr144/previous/us395northofsr144-11.jpg",
+            "referenceImage12UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395northofsr144/previous/us395northofsr144-12.jpg"
+          }
+        }
+      }
+    },
+    {
+      "cctv": {
+        "index": "36",
+        "recordTimestamp": {
+          "recordDate": "2020-11-03",
+          "recordTime": "10:31:55",
+          "recordEpoch": "1604428315"
+        },
+        "location": {
+          "district": "9",
+          "locationName": "US-395 : North of SR-14 3",
+          "nearbyPlace": "Inyokern",
+          "longitude": "-117.86918",
+          "latitude": "35.72336",
+          "elevation": "2522",
+          "direction": "South",
+          "county": "Kern",
+          "route": "US-395",
+          "routeSuffix": "",
+          "postmilePrefix": "R",
+          "postmile": "31.65",
+          "alignment": "",
+          "milepost": "100.06"
+        },
+        "inService": "true",
+        "imageData": {
+          "imageDescription": "Look North Zoom",
+          "streamingVideoURL": "",
+          "static": {
+            "currentImageUpdateFrequency": "20",
+            "currentImageURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395northofsr143/us395northofsr143.jpg",
+            "referenceImageUpdateFrequency": "60",
+            "referenceImage1UpdateAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395northofsr143/previous/us395northofsr143-1.jpg",
+            "referenceImage2UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395northofsr143/previous/us395northofsr143-2.jpg",
+            "referenceImage3UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395northofsr143/previous/us395northofsr143-3.jpg",
+            "referenceImage4UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395northofsr143/previous/us395northofsr143-4.jpg",
+            "referenceImage5UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395northofsr143/previous/us395northofsr143-5.jpg",
+            "referenceImage6UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395northofsr143/previous/us395northofsr143-6.jpg",
+            "referenceImage7UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395northofsr143/previous/us395northofsr143-7.jpg",
+            "referenceImage8UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395northofsr143/previous/us395northofsr143-8.jpg",
+            "referenceImage9UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395northofsr143/previous/us395northofsr143-9.jpg",
+            "referenceImage10UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395northofsr143/previous/us395northofsr143-10.jpg",
+            "referenceImage11UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395northofsr143/previous/us395northofsr143-11.jpg",
+            "referenceImage12UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/us395northofsr143/previous/us395northofsr143-12.jpg"
+          }
+        }
+      }
+    },
+    {
+      "cctv": {
+        "index": "37",
+        "recordTimestamp": {
+          "recordDate": "2020-11-30",
+          "recordTime": "17:36:26",
+          "recordEpoch": "1606786586"
+        },
+        "location": {
+          "district": "9",
+          "locationName": "SR-58 : Cache Creek",
+          "nearbyPlace": "Mojave",
+          "longitude": "-118.21202",
+          "latitude": "35.11736",
+          "elevation": "3408",
+          "direction": "East",
+          "county": "Kern",
+          "route": "SR-58",
+          "routeSuffix": "",
+          "postmilePrefix": "R",
+          "postmile": "107.00",
+          "alignment": "",
+          "milepost": "158.59"
+        },
+        "inService": "true",
+        "imageData": {
+          "imageDescription": "",
+          "streamingVideoURL": "",
+          "static": {
+            "currentImageUpdateFrequency": "1",
+            "currentImageURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr58cachecreek/sr58cachecreek.jpg",
+            "referenceImageUpdateFrequency": "15",
+            "referenceImage1UpdateAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr58cachecreek/previous/sr58cachecreek-1.jpg",
+            "referenceImage2UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr58cachecreek/previous/sr58cachecreek-2.jpg",
+            "referenceImage3UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr58cachecreek/previous/sr58cachecreek-3.jpg",
+            "referenceImage4UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr58cachecreek/previous/sr58cachecreek-4.jpg",
+            "referenceImage5UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr58cachecreek/previous/sr58cachecreek-5.jpg",
+            "referenceImage6UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr58cachecreek/previous/sr58cachecreek-6.jpg",
+            "referenceImage7UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr58cachecreek/previous/sr58cachecreek-7.jpg",
+            "referenceImage8UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr58cachecreek/previous/sr58cachecreek-8.jpg",
+            "referenceImage9UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr58cachecreek/previous/sr58cachecreek-9.jpg",
+            "referenceImage10UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr58cachecreek/previous/sr58cachecreek-10.jpg",
+            "referenceImage11UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr58cachecreek/previous/sr58cachecreek-11.jpg",
+            "referenceImage12UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr58cachecreek/previous/sr58cachecreek-12.jpg"
+          }
+        }
+      }
+    },
+    {
+      "cctv": {
+        "index": "38",
+        "recordTimestamp": {
+          "recordDate": "2020-11-30",
+          "recordTime": "17:36:08",
+          "recordEpoch": "1606786568"
+        },
+        "location": {
+          "district": "9",
+          "locationName": "SR-14 : Silver Queen Road",
+          "nearbyPlace": "Mojave",
+          "longitude": "-118.15893",
+          "latitude": "34.98746",
+          "elevation": "2644",
+          "direction": "East",
+          "county": "Kern",
+          "route": "SR-14",
+          "routeSuffix": "",
+          "postmilePrefix": "R",
+          "postmile": "11.60",
+          "alignment": "",
+          "milepost": "63.77"
+        },
+        "inService": "true",
+        "imageData": {
+          "imageDescription": "",
+          "streamingVideoURL": "",
+          "static": {
+            "currentImageUpdateFrequency": "1",
+            "currentImageURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr14silverqueenroad/sr14silverqueenroad.jpg",
+            "referenceImageUpdateFrequency": "15",
+            "referenceImage1UpdateAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr14silverqueenroad/previous/sr14silverqueenroad-1.jpg",
+            "referenceImage2UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr14silverqueenroad/previous/sr14silverqueenroad-2.jpg",
+            "referenceImage3UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr14silverqueenroad/previous/sr14silverqueenroad-3.jpg",
+            "referenceImage4UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr14silverqueenroad/previous/sr14silverqueenroad-4.jpg",
+            "referenceImage5UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr14silverqueenroad/previous/sr14silverqueenroad-5.jpg",
+            "referenceImage6UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr14silverqueenroad/previous/sr14silverqueenroad-6.jpg",
+            "referenceImage7UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr14silverqueenroad/previous/sr14silverqueenroad-7.jpg",
+            "referenceImage8UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr14silverqueenroad/previous/sr14silverqueenroad-8.jpg",
+            "referenceImage9UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr14silverqueenroad/previous/sr14silverqueenroad-9.jpg",
+            "referenceImage10UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr14silverqueenroad/previous/sr14silverqueenroad-10.jpg",
+            "referenceImage11UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr14silverqueenroad/previous/sr14silverqueenroad-11.jpg",
+            "referenceImage12UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr14silverqueenroad/previous/sr14silverqueenroad-12.jpg"
+          }
+        }
+      }
+    },
+    {
+      "cctv": {
+        "index": "39",
+        "recordTimestamp": {
+          "recordDate": "2020-11-30",
+          "recordTime": "12:24:04",
+          "recordEpoch": "1606767844"
+        },
+        "location": {
+          "district": "9",
+          "locationName": "SR-14 : SR-178 Inyokern",
+          "nearbyPlace": "Inyokern",
+          "longitude": "-117.88262",
+          "latitude": "35.6419",
+          "elevation": "3018",
+          "direction": "West",
+          "county": "Kern",
+          "route": "SR-14",
+          "routeSuffix": "",
+          "postmilePrefix": "",
+          "postmile": "60.76",
+          "alignment": "",
+          "milepost": "114.16"
+        },
+        "inService": "true",
+        "imageData": {
+          "imageDescription": "",
+          "streamingVideoURL": "",
+          "static": {
+            "currentImageUpdateFrequency": "1",
+            "currentImageURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr14sr178inyokern/sr14sr178inyokern.jpg",
+            "referenceImageUpdateFrequency": "15",
+            "referenceImage1UpdateAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr14sr178inyokern/previous/sr14sr178inyokern-1.jpg",
+            "referenceImage2UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr14sr178inyokern/previous/sr14sr178inyokern-2.jpg",
+            "referenceImage3UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr14sr178inyokern/previous/sr14sr178inyokern-3.jpg",
+            "referenceImage4UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr14sr178inyokern/previous/sr14sr178inyokern-4.jpg",
+            "referenceImage5UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr14sr178inyokern/previous/sr14sr178inyokern-5.jpg",
+            "referenceImage6UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr14sr178inyokern/previous/sr14sr178inyokern-6.jpg",
+            "referenceImage7UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr14sr178inyokern/previous/sr14sr178inyokern-7.jpg",
+            "referenceImage8UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr14sr178inyokern/previous/sr14sr178inyokern-8.jpg",
+            "referenceImage9UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr14sr178inyokern/previous/sr14sr178inyokern-9.jpg",
+            "referenceImage10UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr14sr178inyokern/previous/sr14sr178inyokern-10.jpg",
+            "referenceImage11UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr14sr178inyokern/previous/sr14sr178inyokern-11.jpg",
+            "referenceImage12UpdatesAgoURL": "https://cwwp2.dot.ca.gov/data/d9/cctv/image/sr14sr178inyokern/previous/sr14sr178inyokern-12.jpg"
+          }
+        }
+      }
+    }
+  ]
+}

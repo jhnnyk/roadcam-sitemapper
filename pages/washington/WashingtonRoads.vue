@@ -47,6 +47,7 @@ export default {
       }
       cam.imageURL = el.ImageURL;
       cam.description = `${el.CameraLocation.RoadName} @ mile ${el.CameraLocation.MilePost}`;
+
       cam.sitemapItem = `<url><loc>https://road.camera/washington/roads/${cam.routeSlug}/${cam.slug}</loc></url>`;
 
       this.allCams.push(cam);
