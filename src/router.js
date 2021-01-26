@@ -5,7 +5,6 @@ import AlaskaRoads from '../pages/alaska/AlaskaRoads.vue';
 import CaliforniaRoads from '../pages/california/CaliforniaRoads.vue';
 import ColoradoRoads from '../pages/colorado/ColoradoRoads.vue';
 import IowaRoads from '../pages/iowa/IowaRoads.vue';
-import NevadaImport from '../pages/nevada/import.vue';
 import OregonRoads from '../pages/oregon/OregonRoads.vue';
 import WashingtonRoads from '../pages/washington/WashingtonRoads.vue';
 
@@ -31,11 +30,6 @@ const routes = [
     path: '/iowa',
     name: 'IowaRoads',
     component: IowaRoads,
-  },
-  {
-    path: '/nevada-import',
-    name: 'NevadaImport',
-    component: NevadaImport,
   },
   {
     path: '/oregon',
