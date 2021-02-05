@@ -1,12 +1,12 @@
 <template>
   <div>
-    <h2>Alberta Routes Sitemap</h2>
+    <h2>Ohio Routes Sitemap</h2>
     <div v-for="route in routes" :key="route.index">
       {{ route.sitemapItem }}
     </div>
 
     <hr />
-    <h2>Alberta Cams Sitemap</h2>
+    <h2>Ohio Cams Sitemap</h2>
     <div v-for="cam in allCams" :key="cam.index">
       {{ cam.sitemapItem }}
     </div>
@@ -15,10 +15,11 @@
 
 <script>
 import slugify from 'slugify';
-import rawData from './albertaroads.json';
+import rawData1 from './ohioroads1.json';
+import rawData2 from './ohioroads2.json';
 
 export default {
-  name: 'AlbertaRoads',
+  name: 'OhioRoads',
 
   data() {
     return {
@@ -27,11 +28,20 @@ export default {
   },
 
   created() {
+    const rawData = [];
+    // combine data from both files
+    rawData1.ApiResult.Results.Camera.forEach((cam) => {
+      rawData.push(cam);
+    });
+    rawData2.ApiResult.Results.Camera.forEach((cam) => {
+      rawData.push(cam);
+    });
+
     rawData.forEach((el) => {
       const cam = {};
 
-      cam.name = el.Name;
-      cam.slug = slugify(`${el.Name}-${el.Id}`, {
+      cam.name = el.Location;
+      cam.slug = slugify(el.Location, {
         remove: /[*+~.()'"!/#:@]/g,
         lower: true,
       });
@@ -39,19 +49,22 @@ export default {
       cam.latitude = el.Latitude.toString();
       cam.longitude = el.Longitude.toString();
 
-      cam.imageURL = el.Url;
+      cam.imageURL = el.CameraViews.CameraView.LargeUrl;
       cam.description = el.Description;
 
-      cam.route = el.RoadwayName;
-      cam.routeSlug = slugify(el.RoadwayName, {
+      if (!el.CameraViews.CameraView.MainRoute) {
+        console.log(el);
+      }
+      cam.route = el.CameraViews.CameraView.MainRoute;
+      cam.routeSlug = slugify(el.CameraViews.CameraView.MainRoute, {
         remove: /[*+~.()'"!/#:@]/g,
         lower: true,
       });
 
-      cam.credit = '511 Alberta';
-      cam.creditLink = 'https://511.alberta.ca';
+      cam.credit = 'OHGO';
+      cam.creditLink = 'https://www.ohgo.com';
 
-      cam.sitemapItem = `<url><loc>https://road.camera/alberta/roads/${cam.routeSlug}/${cam.slug}</loc></url>`;
+      cam.sitemapItem = `<url><loc>https://road.camera/ohio/roads/${cam.routeSlug}/${cam.slug}</loc></url>`;
 
       this.allCams.push(cam);
     });
@@ -70,7 +83,7 @@ export default {
           routes.push({
             slug: cam.routeSlug,
             name: cam.route,
-            sitemapItem: `<url><loc>https://road.camera/alberta/roads/${cam.routeSlug}</loc></url>`,
+            sitemapItem: `<url><loc>https://road.camera/ohio/roads/${cam.routeSlug}</loc></url>`,
           });
         }
       });
