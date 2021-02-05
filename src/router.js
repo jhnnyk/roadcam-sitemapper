@@ -2,6 +2,7 @@ import Vue from 'vue';
 import VueRouter from 'vue-router';
 
 import AlaskaRoads from '../pages/alaska/AlaskaRoads.vue';
+import AlbertaRoads from '../pages/alberta/AlbertaRoads.vue';
 import ArizonaRoads from '../pages/arizona/ArizonaRoads.vue';
 import BCRoads from '../pages/british-columbia/BCRoads.vue';
 import CaliforniaRoads from '../pages/california/CaliforniaRoads.vue';
@@ -20,6 +21,11 @@ const routes = [
     path: '/alaska',
     name: 'AlaskaRoads',
     component: AlaskaRoads,
+  },
+  {
+    path: '/alberta',
+    name: 'AlbertaRoads',
+    component: AlbertaRoads,
   },
   {
     path: '/arizona',
