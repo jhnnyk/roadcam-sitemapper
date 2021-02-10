@@ -15,6 +15,7 @@ import OntarioRoads from '../pages/ontario/OntarioRoads.vue';
 import OregonRoads from '../pages/oregon/OregonRoads.vue';
 import WashingtonRoads from '../pages/washington/WashingtonRoads.vue';
 import WisconsinRoads from '../pages/wisconsin/WisconsinRoads.vue';
+import WyomingData from '../pages/wyoming/WyomingData.vue';
 
 Vue.use(VueRouter);
 
@@ -88,6 +89,11 @@ const routes = [
     path: '/wisconsin',
     name: 'WisconsinRoads',
     component: WisconsinRoads,
+  },
+  {
+    path: '/wyomingdata',
+    name: 'WyomingData',
+    component: WyomingData,
   },
 ];
 
