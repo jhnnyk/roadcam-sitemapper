@@ -1,0 +1,3344 @@
+[
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/I29RP1StateLineNBCenter.jpg",
+    "description": "SD State Line NB - West (I 29 MP 1) - NDDOT",
+
+    "name": "SD State Line NB - West (I 29 MP 1) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/I29RP1StateLineNBNorth.jpg",
+    "description": "SD State Line NB - North (I 29 MP 1) - NDDOT",
+
+    "name": "SD State Line NB - North (I 29 MP 1) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/I29RP1StateLineNBSouth.jpg",
+    "description": "SD State Line NB - South (I 29 MP 1) - NDDOT",
+
+    "name": "SD State Line NB - South (I 29 MP 1) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/I29RP1StateLineNBPavement.jpg",
+    "description": "SD State Line NB - Pavement (I 29 MP 1) - NDDOT",
+
+    "name": "SD State Line NB - Pavement (I 29 MP 1) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/lakeagassizcenter.jpg",
+    "description": "Lake Agassiz - West (I 29 MP 3) - NDDOT",
+
+    "name": "Lake Agassiz - West (I 29 MP 3) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/lakeagassiznorth.jpg",
+    "description": "Lake Agassiz - North (I 29 MP 3) - NDDOT",
+
+    "name": "Lake Agassiz - North (I 29 MP 3) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/lakeagassizsouth.jpg",
+    "description": "Lake Agassiz - South (I 29 MP 3) - NDDOT",
+
+    "name": "Lake Agassiz - South (I 29 MP 3) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/lakeagassizpavement.jpg",
+    "description": "Lake Agassiz - Pavement (I 29 MP 3) - NDDOT",
+
+    "name": "Lake Agassiz - Pavement (I 29 MP 3) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/raywest.jpg",
+    "description": "Ray - West (US 2 MP 51.3) - NDDOT",
+
+    "name": "Ray - West (US 2 MP 51.3) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/raycenter.jpg",
+    "description": "Ray - North (US 2 MP 51.3) - NDDOT",
+
+    "name": "Ray - North (US 2 MP 51.3) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/rayeast.jpg",
+    "description": "Ray - East (US 2 MP 51.3) - NDDOT",
+
+    "name": "Ray - East (US 2 MP 51.3) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/raypavement.jpg",
+    "description": "Ray - Pavement (US 2 MP 51.3) - NDDOT",
+
+    "name": "Ray - Pavement (US 2 MP 51.3) - NDDOT"
+  },
+  {
+    "imageUrl": "https://webpubcontent.gray.tv/kfyr/weather/SkyCapture_KM.jpg",
+    "description": "Minot - KMOT TV",
+
+    "name": "Minot - KMOT TV"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/capitalnw00001.jpg",
+    "description": "Capital - West - NDDOT",
+
+    "name": "Capital - West - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/capitalse00001.jpg",
+    "description": "Capital - Northeast - NDDOT",
+
+    "name": "Capital - Northeast - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/I29RP1StateLineSBNorth.jpg",
+    "description": "SD State Line SB - North (I 29 MP 1) - NDDOT",
+
+    "name": "SD State Line SB - North (I 29 MP 1) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/I29RP1StateLineSBCenter.jpg",
+    "description": "SD State Line SB - East (I 29 MP 1) - NDDOT",
+
+    "name": "SD State Line SB - East (I 29 MP 1) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/I29RP1StateLineSBSouth.jpg",
+    "description": "SD State Line SB - South (I 29 MP 1) - NDDOT",
+
+    "name": "SD State Line SB - South (I 29 MP 1) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/I29RP1StateLineSBPavement.jpg",
+    "description": "SD State Line SB - Pavement (I 29 MP 1) - NDDOT",
+
+    "name": "SD State Line SB - Pavement (I 29 MP 1) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/fargonbcenter.jpg",
+    "description": "Fargo North Bound - West (I 29 MP 59.3) - NDDOT",
+
+    "name": "Fargo North Bound - West (I 29 MP 59.3) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/fargonbnorth.jpg",
+    "description": "Fargo North Bound - North (I 29 MP 59.3) - NDDOT",
+
+    "name": "Fargo North Bound - North (I 29 MP 59.3) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/fargonbsouth.jpg",
+    "description": "Fargo North Bound - South (I 29 MP 59.3) - NDDOT",
+
+    "name": "Fargo North Bound - South (I 29 MP 59.3) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/fargonbpavement.jpg",
+    "description": "Fargo North Bound - Pavement (I 29 MP 59.3) - NDDOT",
+
+    "name": "Fargo North Bound - Pavement (I 29 MP 59.3) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/fargotrilevelnorth.jpg",
+    "description": "Fargo - North (I 29 & I 94 Interchange) - NDDOT",
+
+    "name": "Fargo - North (I 29 & I 94 Interchange) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/fargotrilevelwest.jpg",
+    "description": "Fargo - West (I 29 & I 94 Interchange) - NDDOT",
+
+    "name": "Fargo - West (I 29 & I 94 Interchange) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/fargotrileveleast.jpg",
+    "description": "Fargo - East (I 29 & I 94 Interchange) - NDDOT",
+
+    "name": "Fargo - East (I 29 & I 94 Interchange) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/fargotrilevelsouth.jpg",
+    "description": "Fargo - South (I 29 & I 94 Interchange) - NDDOT",
+
+    "name": "Fargo - South (I 29 & I 94 Interchange) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/buxtonnorth.jpg",
+    "description": "Buxton - North (I 29 MP 114) - NDDOT",
+
+    "name": "Buxton - North (I 29 MP 114) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/buxtoncenter.jpg",
+    "description": "Buxton - Northeast (I 29 MP 114) - NDDOT",
+
+    "name": "Buxton - Northeast (I 29 MP 114) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/buxtonsouth.jpg",
+    "description": "Buxton - South (I 29 MP 114) - NDDOT",
+
+    "name": "Buxton - South (I 29 MP 114) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/buxtonwest.jpg",
+    "description": "Buxton - West (I 29 MP 114) - NDDOT",
+
+    "name": "Buxton - West (I 29 MP 114) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/buxtonpavement.jpg",
+    "description": "Buxton - Pavement Northbound (I 29 MP 114) - NDDOT",
+
+    "name": "Buxton - Pavement Northbound (I 29 MP 114) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/buxtonsbbridge.jpg",
+    "description": "Buxton - Southbound Bridge (I 29 MP 114) - NDDOT",
+
+    "name": "Buxton - Southbound Bridge (I 29 MP 114) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/grandforksnbcenter.jpg",
+    "description": "Grand Forks North Bound - West (I 29 MP 135.9) - NDDOT",
+
+    "name": "Grand Forks North Bound - West (I 29 MP 135.9) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/grandforksnbnorth.jpg",
+    "description": "Grand Forks North Bound - North (I 29 MP 135.9) - NDDOT",
+
+    "name": "Grand Forks North Bound - North (I 29 MP 135.9) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/grandforksnbsouth.jpg",
+    "description": "Grand Forks North Bound - South (I 29 MP 135.9) - NDDOT",
+
+    "name": "Grand Forks North Bound - South (I 29 MP 135.9) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/grandforksnbpavement.jpg",
+    "description": "Grand Forks North Bound - Pavement (I 29 MP 135.9) - NDDOT",
+
+    "name": "Grand Forks North Bound - Pavement (I 29 MP 135.9) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/grandforks2sbnorth.jpg",
+    "description": "Grand Forks South Bound - North (I 29 MP 139.18) - NDDOT",
+
+    "name": "Grand Forks South Bound - North (I 29 MP 139.18) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/grandforks2sbcenter.jpg",
+    "description": "Grand Forks South Bound - East (I 29 MP 139.18) - NDDOT",
+
+    "name": "Grand Forks South Bound - East (I 29 MP 139.18) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/grandforks2sbsouth.jpg",
+    "description": "Grand Forks South Bound - South (I 29 MP 139.18) - NDDOT",
+
+    "name": "Grand Forks South Bound - South (I 29 MP 139.18) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/grandforks2sbpavement.jpg",
+    "description": "Grand Forks South Bound - Pavement (I 29 MP 139.18) - NDDOT",
+
+    "name": "Grand Forks South Bound - Pavement (I 29 MP 139.18) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/grandforks2nbcenter.jpg",
+    "description": "Grand Forks North Bound - West (I 29 MP 140.44) - NDDOT",
+
+    "name": "Grand Forks North Bound - West (I 29 MP 140.44) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/grandforks2nbnorth.jpg",
+    "description": "Grand Forks North Bound - North (I 29 MP 140.44) - NDDOT",
+
+    "name": "Grand Forks North Bound - North (I 29 MP 140.44) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/grandforks2nbsouth.jpg",
+    "description": "Grand Forks North Bound - South (I 29 MP 140.44) - NDDOT",
+
+    "name": "Grand Forks North Bound - South (I 29 MP 140.44) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/grandforks2nbpavement.jpg",
+    "description": "Grand Forks North Bound - Pavement (I 29 MP 140.44) - NDDOT",
+
+    "name": "Grand Forks North Bound - Pavement (I 29 MP 140.44) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/grandforkssbcenter.jpg",
+    "description": "Grand Forks South Bound - West (I 29 MP 143.1) - NDDOT",
+
+    "name": "Grand Forks South Bound - West (I 29 MP 143.1) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/grandforkssbnorth.jpg",
+    "description": "Grand Forks South Bound - North (I 29 MP 143.1) - NDDOT",
+
+    "name": "Grand Forks South Bound - North (I 29 MP 143.1) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/grandforkssbsouth.jpg",
+    "description": "Grand Forks South Bound - South (I 29 MP 143.1) - NDDOT",
+
+    "name": "Grand Forks South Bound - South (I 29 MP 143.1) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/grandforkssbpavement.jpg",
+    "description": "Grand Forks South Bound - Pavement (I 29 MP 143.1) - NDDOT",
+
+    "name": "Grand Forks South Bound - Pavement (I 29 MP 143.1) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/bowesmontcenter.jpg",
+    "description": "Bowesmont -  West (I 29 MP 195.5) - NDDOT",
+
+    "name": "Bowesmont - West (I 29 MP 195.5) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/bowesmontnorth.jpg",
+    "description": "Bowesmont -  North (I 29 MP 195.5) - NDDOT",
+
+    "name": "Bowesmont - North (I 29 MP 195.5) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/bowesmontsouth.jpg",
+    "description": "Bowesmont -  South (I 29 MP 195.5) - NDDOT",
+
+    "name": "Bowesmont - South (I 29 MP 195.5) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/bowesmontpavement.jpg",
+    "description": "Bowesmont -  Pavement (I 29 MP 195.5) - NDDOT",
+
+    "name": "Bowesmont - Pavement (I 29 MP 195.5) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/bowesmontbridgedeck.jpg",
+    "description": "Bowesmont - Bridge Deck (I 29 MP 195.5) - NDDOT",
+
+    "name": "Bowesmont - Bridge Deck (I 29 MP 195.5) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/I29RP215PembinaCenter.jpg",
+    "description": "Pembina@Hwy 59 Exit - West (I 29 MP 215.2) - NDDOT",
+
+    "name": "Pembina@Hwy 59 Exit - West (I 29 MP 215.2) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/I29RP215PembinaNorth.jpg",
+    "description": "Pembina@Hwy 59 Exit - North (I 29 MP 215.2) - NDDOT",
+
+    "name": "Pembina@Hwy 59 Exit - North (I 29 MP 215.2) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/I29RP215PembinaSouth.jpg",
+    "description": "Pembina@Hwy 59 Exit - South (I 29 MP 215.2) - NDDOT",
+
+    "name": "Pembina@Hwy 59 Exit - South (I 29 MP 215.2) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/I29RP215PembinaPavement.jpg",
+    "description": "Pembina@Hwy 59 Exit - Pavement (I 29 MP 215.2) - NDDOT",
+
+    "name": "Pembina@Hwy 59 Exit - Pavement (I 29 MP 215.2) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/I29RP216PembinaNorth.jpg",
+    "description": "Port of Entry SB - North (I 29 MP 216.8) - NDDOT",
+
+    "name": "Port of Entry SB - North (I 29 MP 216.8) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/I29RP216PembinaCenter.jpg",
+    "description": "Port of Entry SB - East (I 29 MP 216.8) - NDDOT",
+
+    "name": "Port of Entry SB - East (I 29 MP 216.8) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/I29RP216PembinaSouth.jpg",
+    "description": "Port of Entry SB - South (I 29 MP 216.8) - NDDOT",
+
+    "name": "Port of Entry SB - South (I 29 MP 216.8) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/I29RP216PembinaPavement.jpg",
+    "description": "Port of Entry SB - Pavement (I 29 MP 216.8) - NDDOT",
+
+    "name": "Port of Entry SB - Pavement (I 29 MP 216.8) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/I29RP217PembinaCenter.jpg",
+    "description": "Port of Entry NB - West (I 29 MP 217) - NDDOT",
+
+    "name": "Port of Entry NB - West (I 29 MP 217) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/I29RP217PembinaNorth.jpg",
+    "description": "Port of Entry NB - North (I 29 MP 217) - NDDOT",
+
+    "name": "Port of Entry NB - North (I 29 MP 217) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/I29RP217PembinaBorder.jpg",
+    "description": "Port of Entry NB - Border (I 29 MP 217) - NDDOT",
+
+    "name": "Port of Entry NB - Border (I 29 MP 217) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/I29RP217PembinaSouth.jpg",
+    "description": "Port of Entry NB - South (I 29 MP 217) - NDDOT",
+
+    "name": "Port of Entry NB - South (I 29 MP 217) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/I29RP217PembinaPavement.jpg",
+    "description": "Port of Entry NB - Pavement (I 29 MP 217) - NDDOT",
+
+    "name": "Port of Entry NB - Pavement (I 29 MP 217) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/I94RP1BeachEBWest.jpg",
+    "description": "Beach - West (I 94 MP 0.52) - NDDOT",
+
+    "name": "Beach - West (I 94 MP 0.52) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/I94RP1BeachEBCenter.jpg",
+    "description": "Beach - North (I 94 MP 0.52) - NDDOT",
+
+    "name": "Beach - North (I 94 MP 0.52) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/I94RP1BeachEBEast.jpg",
+    "description": "Beach - East (I 94 MP 0.52) - NDDOT",
+
+    "name": "Beach - East (I 94 MP 0.52) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/I94RP1BeachEBPavement.jpg",
+    "description": "Beach - Pavement (I 94 MP 0.52) - NDDOT",
+
+    "name": "Beach - Pavement (I 94 MP 0.52) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/beachwest.jpg",
+    "description": "Beach - West (I 94 MP 1) - NDDOT",
+
+    "name": "Beach - West (I 94 MP 1) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/beachcenter.jpg",
+    "description": "Beach - North (I 94 MP 1) - NDDOT",
+
+    "name": "Beach - North (I 94 MP 1) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/beacheast.jpg",
+    "description": "Beach - East (I 94 MP 1) - NDDOT",
+
+    "name": "Beach - East (I 94 MP 1) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/beachpavement.jpg",
+    "description": "Beach - Pavement (I 94 MP 1) - NDDOT",
+
+    "name": "Beach - Pavement (I 94 MP 1) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/I94RP3BeachWBWest.jpg",
+    "description": "Beach - West (I 94 MP 3) - NDDOT",
+
+    "name": "Beach - West (I 94 MP 3) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/I94RP3BeachWBCenter.jpg",
+    "description": "Beach - South (I 94 MP 3) - NDDOT",
+
+    "name": "Beach - South (I 94 MP 3) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/I94RP3BeachWBEast.jpg",
+    "description": "Beach - East (I 94 MP 3) - NDDOT",
+
+    "name": "Beach - East (I 94 MP 3) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/I94RP3BeachWBPavement.jpg",
+    "description": "Beach - Pavement (I 94 MP 3) - NDDOT",
+
+    "name": "Beach - Pavement (I 94 MP 3) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/camelhumpwest.jpg",
+    "description": "Camel Hump - West (I 94 MP 11.34) - NDDOT",
+
+    "name": "Camel Hump - West (I 94 MP 11.34) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/camelhumpeast.jpg",
+    "description": "Camel Hump - East (I 94 MP 11.34) - NDDOT",
+
+    "name": "Camel Hump - East (I 94 MP 11.34) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/camelhumpcenter.jpg",
+    "description": "Camel Hump - South (I 94 MP 11.34) - NDDOT",
+
+    "name": "Camel Hump - South (I 94 MP 11.34) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/camelhumppavement.jpg",
+    "description": "Camel Hump - Pavement (I 94 MP 11.34) - NDDOT",
+
+    "name": "Camel Hump - Pavement (I 94 MP 11.34) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/I-94Mile31West.jpg",
+    "description": "Painted Canyon - West (I 94 MP 31.2) - LiveView",
+
+    "name": "Painted Canyon - West (I 94 MP 31.2) - LiveView"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/I-94Mile31East.jpg",
+    "description": "Painted Canyon - East (I 94 MP 31.2) - LiveView",
+
+    "name": "Painted Canyon - East (I 94 MP 31.2) - LiveView"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/I-94Mile31South.jpg",
+    "description": "Painted Canyon - South (I 94 MP 31.2) - LiveView",
+
+    "name": "Painted Canyon - South (I 94 MP 31.2) - LiveView"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/I-94Mile31Pavement.jpg",
+    "description": "Painted Canyon - Pavement (I 94 MP 31.2) - LiveView",
+
+    "name": "Painted Canyon - Pavement (I 94 MP 31.2) - LiveView"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/fryburgwest.jpg",
+    "description": "Fryburg - West (I 94 MP 34.68) - NDDOT",
+
+    "name": "Fryburg - West (I 94 MP 34.68) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/fryburgcenter.jpg",
+    "description": "Fryburg - North (I 94 MP 34.68) - NDDOT",
+
+    "name": "Fryburg - North (I 94 MP 34.68) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/fryburgeast.jpg",
+    "description": "Fryburg - East (I 94 MP 34.68) - NDDOT",
+
+    "name": "Fryburg - East (I 94 MP 34.68) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/fryburgpavement.jpg",
+    "description": "Fryburg - Pavement (I 94 MP 34.68) - NDDOT",
+
+    "name": "Fryburg - Pavement (I 94 MP 34.68) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/I94RP54DickinsonWest.jpg",
+    "description": "Dickinson Bypass West - West (I 94 MP 54.32) - NDDOT",
+
+    "name": "Dickinson Bypass West - West (I 94 MP 54.32) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/I94RP54DickinsonCenter.jpg",
+    "description": "Dickinson Bypass West - North (I 94 MP 54.32) - NDDOT",
+
+    "name": "Dickinson Bypass West - North (I 94 MP 54.32) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/I94RP54DickinsonEast.jpg",
+    "description": "Dickinson Bypass West - East (I 94 MP 54.32) - NDDOT",
+
+    "name": "Dickinson Bypass West - East (I 94 MP 54.32) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/I94RP54DickinsonPavement.jpg",
+    "description": "Dickinson Bypass West - Pavement (I 94 MP 54.32) - NDDOT",
+
+    "name": "Dickinson Bypass West - Pavement (I 94 MP 54.32) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/dickinsonwbwest.jpg",
+    "description": "Dickinson West Bound - West I 94 MP 57.582) - NDDOT",
+
+    "name": "Dickinson West Bound - West I 94 MP 57.582) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/dickinsonwbeast.jpg",
+    "description": "Dickinson West Bound - East I 94 MP 57.582) - NDDOT",
+
+    "name": "Dickinson West Bound - East I 94 MP 57.582) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/dickinsonwbcenter.jpg",
+    "description": "Dickinson West Bound - South I 94 MP 57.582) - NDDOT",
+
+    "name": "Dickinson West Bound - South I 94 MP 57.582) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/dickinsonwbpavement.jpg",
+    "description": "Dickinson West Bound - Pavement I 94 MP 57.582) - NDDOT",
+
+    "name": "Dickinson West Bound - Pavement I 94 MP 57.582) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/dickinsonebwest.jpg",
+    "description": "Dickinson East Bound - West I 94 MP 63.29) - NDDOT",
+
+    "name": "Dickinson East Bound - West I 94 MP 63.29) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/dickinsonebcenter.jpg",
+    "description": "Dickinson East Bound - North I 94 MP 63.29) - NDDOT",
+
+    "name": "Dickinson East Bound - North I 94 MP 63.29) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/dickinsonebeast.jpg",
+    "description": "Dickinson East Bound - East I 94 MP 63.29) - NDDOT",
+
+    "name": "Dickinson East Bound - East I 94 MP 63.29) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/dickinsonebpavement.jpg",
+    "description": "Dickinson East Bound - Pavement I 94 MP 63.29) - NDDOT",
+
+    "name": "Dickinson East Bound - Pavement I 94 MP 63.29) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/I94RP66DickinsonWest.jpg",
+    "description": "Lehigh Separation - West (I 94 MP 66.14) - NDDOT",
+
+    "name": "Lehigh Separation - West (I 94 MP 66.14) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/I94RP66DickinsonEast.jpg",
+    "description": "Lehigh Separation - East (I 94 MP 66.14) - NDDOT",
+
+    "name": "Lehigh Separation - East (I 94 MP 66.14) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/I94RP66DickinsonCenter.jpg",
+    "description": "Lehigh Separation - Pavement (I 94 MP 66.14) - NDDOT",
+
+    "name": "Lehigh Separation - Pavement (I 94 MP 66.14) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/I94RP66DickinsonPavement.jpg",
+    "description": "Lehigh Separation - Pavement (I 94 MP 66.14) - NDDOT",
+
+    "name": "Lehigh Separation - Pavement (I 94 MP 66.14) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/greenriverwest.jpg",
+    "description": "Green River - West (I 94 MP 69.7) - NDDOT",
+
+    "name": "Green River - West (I 94 MP 69.7) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/greenrivercenter.jpg",
+    "description": "Green River - Northwest (I 94 MP 69.7) - NDDOT",
+
+    "name": "Green River - Northwest (I 94 MP 69.7) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/greenrivereast.jpg",
+    "description": "Green River - East (I 94 MP 69.7) - NDDOT",
+
+    "name": "Green River - East (I 94 MP 69.7) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/greenriverpavement.jpg",
+    "description": "Green River - Pavement (I 94 MP 69.7) - NDDOT",
+
+    "name": "Green River - Pavement (I 94 MP 69.7) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/gladstonewest.jpg",
+    "description": "Gladstone EB/WB - West (I 94 MP 73.24)",
+
+    "name": "Gladstone EB/WB - West (I 94 MP 73.24)"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/gladstoneeast.jpg",
+    "description": "Gladstone EB/WB - East (I 94 MP 73.24)",
+
+    "name": "Gladstone EB/WB - East (I 94 MP 73.24)"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/gladstonecenter.jpg",
+    "description": "Gladstone EB/WB - South (I 94 MP 73.24)",
+
+    "name": "Gladstone EB/WB - South (I 94 MP 73.24)"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/gladstonepavement.jpg",
+    "description": "Gladstone East Bound - Pavement (I 94 MP 73.24)",
+
+    "name": "Gladstone East Bound - Pavement (I 94 MP 73.24)"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/gladstonebridgeeb.jpg",
+    "description": "Gladstone East Bound - Bridge Pavement (I 94 MP 73.24)",
+
+    "name": "Gladstone East Bound - Bridge Pavement (I 94 MP 73.24)"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/gladstonebridgewb.jpg",
+    "description": "Gladstone West Bound - Bridge Pavement (I 94 MP 73.24)",
+
+    "name": "Gladstone West Bound - Bridge Pavement (I 94 MP 73.24)"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/hailstonewest.jpg",
+    "description": "Hailstone Rest Area - West (I 94 MP 119.4) - NDDOT",
+
+    "name": "Hailstone Rest Area - West (I 94 MP 119.4) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/hailstoneeast.jpg",
+    "description": "Hailstone Rest Area - East (I 94 MP 119.4) - NDDOT",
+
+    "name": "Hailstone Rest Area - East (I 94 MP 119.4) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/hailstonecenter.jpg",
+    "description": "Hailstone Rest Area - South (I 94 MP 119.4) - NDDOT",
+
+    "name": "Hailstone Rest Area - South (I 94 MP 119.4) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/hailstonepavement.jpg",
+    "description": "Hailstone Rest Area - Pavement (I 94 MP 119.4) - NDDOT",
+
+    "name": "Hailstone Rest Area - Pavement (I 94 MP 119.4) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/newsalemwest.jpg",
+    "description": "New Salem - West (I 94 MP 126.9) - NDDOT",
+
+    "name": "New Salem - West (I 94 MP 126.9) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/newsalemeast.jpg",
+    "description": "New Salem - East (I 94 MP 126.9) - NDDOT",
+
+    "name": "New Salem - East (I 94 MP 126.9) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/newsalemcenter.jpg",
+    "description": "New Salem - South (I 94 MP 126.9) - NDDOT",
+
+    "name": "New Salem - South (I 94 MP 126.9) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/newsalempavement.jpg",
+    "description": "New Salem - Pavement (I 94 MP 126.9) - NDDOT",
+
+    "name": "New Salem - Pavement (I 94 MP 126.9) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/mandanebwest.jpg",
+    "description": "Mandan - West (I 94 MP 146.142) - NDDOT",
+
+    "name": "Mandan - West (I 94 MP 146.142) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/mandanebcenter.jpg",
+    "description": "Mandan - North (I 94 MP 146.142) - NDDOT",
+
+    "name": "Mandan - North (I 94 MP 146.142) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/mandanebeast.jpg",
+    "description": "Mandan - East (I 94 MP 146.142) - NDDOT",
+
+    "name": "Mandan - East (I 94 MP 146.142) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/mandanebpavement.jpg",
+    "description": "Mandan - Pavement (I 94 MP 146.142) - NDDOT",
+
+    "name": "Mandan - Pavement (I 94 MP 146.142) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/I94RP151ScenicWest.jpg",
+    "description": "Mandan@Scenic View - West (I 94 MP 151.571) - NDDOT",
+
+    "name": "Mandan@Scenic View - West (I 94 MP 151.571) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/I94RP151ScenicCenter.jpg",
+    "description": "Mandan@Scenic View - North (I 94 MP 151.571) - NDDOT",
+
+    "name": "Mandan@Scenic View - North (I 94 MP 151.571) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/I94RP151ScenicEast.jpg",
+    "description": "Mandan@Scenic View - East (I 94 MP 151.571) - NDDOT",
+
+    "name": "Mandan@Scenic View - East (I 94 MP 151.571) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/I94RP151ScenicPavement.jpg",
+    "description": "Mandan@Scenic View - Pavement (I 94 MP 151.571) - NDDOT",
+
+    "name": "Mandan@Scenic View - Pavement (I 94 MP 151.571) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/I94RP152SunsetWest.jpg",
+    "description": "Mandan@Sunset Dr. - West (I 94 MP 152.307) - NDDOT",
+
+    "name": "Mandan@Sunset Dr. - West (I 94 MP 152.307) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/I94RP152SunsetEast.jpg",
+    "description": "Mandan@Sunset Dr. - East (I 94 MP 152.307) - NDDOT",
+
+    "name": "Mandan@Sunset Dr. - East (I 94 MP 152.307) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/I94RP152SunsetPavement.jpg",
+    "description": "Mandan@Sunset Dr. - Pavement (I 94 MP 152.307) - NDDOT",
+
+    "name": "Mandan@Sunset Dr. - Pavement (I 94 MP 152.307) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/I94RP153CollinsWest.jpg",
+    "description": "Mandan@Collins Ave - West (I 94 MP 153.097) - NDDOT",
+
+    "name": "Mandan@Collins Ave - West (I 94 MP 153.097) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/I94RP153CollinsEast.jpg",
+    "description": "Mandan@Collins Ave - East (I 94 MP 153.097) - NDDOT",
+
+    "name": "Mandan@Collins Ave - East (I 94 MP 153.097) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/I94RP153CollinsCenter.jpg",
+    "description": "Mandan@Collins Ave - South (I 94 MP 153.097) - NDDOT",
+
+    "name": "Mandan@Collins Ave - South (I 94 MP 153.097) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/I94RP153CollinsPavement.jpg",
+    "description": "Mandan@Collins Ave - Pavement (I 94 MP 153.097) - NDDOT",
+
+    "name": "Mandan@Collins Ave - Pavement (I 94 MP 153.097) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/I94RP154MandanAveWest.jpg",
+    "description": "Mandan@Mandan Ave - West (I 94 MP 154.059) - NDDOT",
+
+    "name": "Mandan@Mandan Ave - West (I 94 MP 154.059) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/I94RP154MandanAveEast.jpg",
+    "description": "Mandan@Mandan Ave - East (I 94 MP 154.059) - NDDOT",
+
+    "name": "Mandan@Mandan Ave - East (I 94 MP 154.059) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/I94RP154MandanAvePavement.jpg",
+    "description": "Mandan@Mandan Ave - Pavement (I 94 MP 154.059) - NDDOT",
+
+    "name": "Mandan@Mandan Ave - Pavement (I 94 MP 154.059) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/I94RP155MainWest.jpg",
+    "description": "Mandan@Main St. - West (I 94 MP 155.056) - NDDOT",
+
+    "name": "Mandan@Main St. - West (I 94 MP 155.056) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/I94RP155MainNorth.jpg",
+    "description": "Mandan@Main St. - North (I 94 MP 155.056) - NDDOT",
+
+    "name": "Mandan@Main St. - North (I 94 MP 155.056) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/I94RP155MainEast.jpg",
+    "description": "Mandan@Main St. - East (I 94 MP 155.056) - NDDOT",
+
+    "name": "Mandan@Main St. - East (I 94 MP 155.056) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/I94RP155MainSouth.jpg",
+    "description": "Mandan@Main St. - South (I 94 MP 155.056) - NDDOT",
+
+    "name": "Mandan@Main St. - South (I 94 MP 155.056) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/I94RP155MainPavement.jpg",
+    "description": "Mandan@Main St. - Pavement (I 94 MP 155.056) - NDDOT",
+
+    "name": "Mandan@Main St. - Pavement (I 94 MP 155.056) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/I94RP155MidwayEBWest.jpg",
+    "description": "Mandan@Midway EB - West (I 94 MP 155.779) - NDDOT",
+
+    "name": "Mandan@Midway EB - West (I 94 MP 155.779) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/I94RP155MidwayWBWest.jpg",
+    "description": "Mandan@Midway WB - West (I 94 MP 155.779) - NDDOT",
+
+    "name": "Mandan@Midway WB - West (I 94 MP 155.779) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/I94RP155MidwayEBEast.jpg",
+    "description": "Mandan@Midway EB - East (I 94 MP 155.779) - NDDOT",
+
+    "name": "Mandan@Midway EB - East (I 94 MP 155.779) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/I94RP155MidwayWBEast.jpg",
+    "description": "Mandan@Midway WB - East (I 94 MP 155.779) - NDDOT",
+
+    "name": "Mandan@Midway WB - East (I 94 MP 155.779) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/I94RP155MidwayEBPavement.jpg",
+    "description": "Mandan@Midway EB - Pavement (I 94 MP 155.779) - NDDOT",
+
+    "name": "Mandan@Midway EB - Pavement (I 94 MP 155.779) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/I94RP155MidwayWBPavement.jpg",
+    "description": "Mandan@Midway WB - Pavement (I 94 MP 155.779) - NDDOT",
+
+    "name": "Mandan@Midway WB - Pavement (I 94 MP 155.779) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/I94RP156MandanWest.jpg",
+    "description": "Mandan - West (I 94 MP 156.078) - NDDOT",
+
+    "name": "Mandan - West (I 94 MP 156.078) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/I94RP156MandanNorth.jpg",
+    "description": "Mandan - Northwest (I 94 MP 156.078) - NDDOT",
+
+    "name": "Mandan - Northwest (I 94 MP 156.078) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/I94RP156MandanEast.jpg",
+    "description": "Mandan - East (I 94 MP 156.078) - NDDOT",
+
+    "name": "Mandan - East (I 94 MP 156.078) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/I94RP156MandanSouth.jpg",
+    "description": "Mandan - Southeast (I 94 MP 156.078) - NDDOT",
+
+    "name": "Mandan - Southeast (I 94 MP 156.078) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/I94RP156MandanPavement.jpg",
+    "description": "Mandan - Pavement (I 94 MP 156.078) - NDDOT",
+
+    "name": "Mandan - Pavement (I 94 MP 156.078) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/grantmarshwest.jpg",
+    "description": "Bismarck - Grant Marsh Bridge - West (I 94 MP 156.63) - NDDOT",
+
+    "name": "Bismarck - Grant Marsh Bridge - West (I 94 MP 156.63) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/grantmarsheast.jpg",
+    "description": "Bismarck - Grant Marsh Bridge - East (I 94 MP 156.63) - NDDOT",
+
+    "name": "Bismarck - Grant Marsh Bridge - East (I 94 MP 156.63) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/grantmarshcenter.jpg",
+    "description": "Bismarck - Grant Marsh Bridge - South (I 94 MP 156.63) - NDDOT",
+
+    "name": "Bismarck - Grant Marsh Bridge - South (I 94 MP 156.63) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/grantmarshpavement.jpg",
+    "description": "Bismarck - Grant Marsh Bridge - Pavement (I 94 MP 156.63) - NDDOT",
+
+    "name": "Bismarck - Grant Marsh Bridge - Pavement (I 94 MP 156.63) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/I94RP157TylerWest.jpg",
+    "description": "Bismarck@Tyler Parkway - West (I 94 MP 157.309) - NDDOT",
+
+    "name": "Bismarck@Tyler Parkway - West (I 94 MP 157.309) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/I94RP157TylerEast.jpg",
+    "description": "Bismarck@Tyler Parkway - East (I 94 MP 157.309) - NDDOT",
+
+    "name": "Bismarck@Tyler Parkway - East (I 94 MP 157.309) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/I94RP157TylerCenter.jpg",
+    "description": "Bismarck@Tyler Parkway - South (I 94 MP 157.309) - NDDOT",
+
+    "name": "Bismarck@Tyler Parkway - South (I 94 MP 157.309) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/I94RP157TylerPavement.jpg",
+    "description": "Bismarck@Tyler Parkway - Pavment (I 94 MP 157.309) - NDDOT",
+
+    "name": "Bismarck@Tyler Parkway - Pavment (I 94 MP 157.309) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/I94RP157BismarckWest.jpg",
+    "description": "Bismarck - West (I 94 MP 157.923) - NDDOT",
+
+    "name": "Bismarck - West (I 94 MP 157.923) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/I94RP157BismarckEast.jpg",
+    "description": "Bismarck - East (I 94 MP 157.923) - NDDOT",
+
+    "name": "Bismarck - East (I 94 MP 157.923) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/I94RP157BismarckCenter.jpg",
+    "description": "Bismarck - South (I 94 MP 157.923) - NDDOT",
+
+    "name": "Bismarck - South (I 94 MP 157.923) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/I94RP157BismarckPavement.jpg",
+    "description": "Bismarck - Pavement (I 94 MP 157.923) - NDDOT",
+
+    "name": "Bismarck - Pavement (I 94 MP 157.923) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/I94RP159StateWest.jpg",
+    "description": "Bismarck@State St. - West (I 94 MP 159.419) - NDDOT",
+
+    "name": "Bismarck@State St. - West (I 94 MP 159.419) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/I94RP159StateCenter.jpg",
+    "description": "Bismarck@State St. - North (I 94 MP 159.419) - NDDOT",
+
+    "name": "Bismarck@State St. - North (I 94 MP 159.419) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/I94RP159StateEast.jpg",
+    "description": "Bismarck@State St. - East (I 94 MP 159.419) - NDDOT",
+
+    "name": "Bismarck@State St. - East (I 94 MP 159.419) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/I94RP159StatePavement.jpg",
+    "description": "Bismarck@State St. - Pavment (I 94 MP 159.419) - NDDOT",
+
+    "name": "Bismarck@State St. - Pavment (I 94 MP 159.419) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/I94RP160BismarckWest.jpg",
+    "description": "Bismarck@Pebble Creek - West (I 94 MP 160.482) - NDDOT",
+
+    "name": "Bismarck@Pebble Creek - West (I 94 MP 160.482) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/I94RP160BismarckCenter.jpg",
+    "description": "Bismarck@Pebble Creek - North (I 94 MP 160.482) - NDDOT",
+
+    "name": "Bismarck@Pebble Creek - North (I 94 MP 160.482) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/I94RP160BismarckEast.jpg",
+    "description": "Bismarck@Pebble Creek - East (I 94 MP 160.482) - NDDOT",
+
+    "name": "Bismarck@Pebble Creek - East (I 94 MP 160.482) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/I94RP160BismarckPavement.jpg",
+    "description": "Bismarck@Pebble Creek - Pavement (I 94 MP 160.482) - NDDOT",
+
+    "name": "Bismarck@Pebble Creek - Pavement (I 94 MP 160.482) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/I94RP161CentenialWest.jpg",
+    "description": "Bismarck@Centennial Road - West (I 94 MP 161.419) - NDDOT",
+
+    "name": "Bismarck@Centennial Road - West (I 94 MP 161.419) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/I94RP161CentenialCenter.jpg",
+    "description": "Bismarck@Centennial Road - South (I 94 MP 161.419) - NDDOT",
+
+    "name": "Bismarck@Centennial Road - South (I 94 MP 161.419) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/I94RP161CentenialEast.jpg",
+    "description": "Bismarck@Centennial Road - East (I 94 MP 161.419) - NDDOT",
+
+    "name": "Bismarck@Centennial Road - East (I 94 MP 161.419) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/I94RP161CentenialPavement.jpg",
+    "description": "Bismarck@Centennial Road - Pavement (I 94 MP 161.419) - NDDOT",
+
+    "name": "Bismarck@Centennial Road - Pavement (I 94 MP 161.419) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/I94RP162BismarckWest.jpg",
+    "description": "Bismarck - West (I 94 MP 162.570) - NDDOT",
+
+    "name": "Bismarck - West (I 94 MP 162.570) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/I94RP162BismarckEast.jpg",
+    "description": "Bismarck - East (I 94 MP 162.570) - NDDOT",
+
+    "name": "Bismarck - East (I 94 MP 162.570) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/I94RP162BismarckCenter.jpg",
+    "description": "Bismarck - South (I 94 MP 162.570) - NDDOT",
+
+    "name": "Bismarck - South (I 94 MP 162.570) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/I94RP162BismarckPavement.jpg",
+    "description": "Bismarck - Pavment (I 94 MP 162.570) - NDDOT",
+
+    "name": "Bismarck - Pavment (I 94 MP 162.570) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/applecreekwest.jpg",
+    "description": "Apple Creek Rest Area - West (I 94 MP 168.5) - NDDOT",
+
+    "name": "Apple Creek Rest Area - West (I 94 MP 168.5) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/applecreekeast.jpg",
+    "description": "Apple Creek Rest Area - East (I 94 MP 168.5) - NDDOT",
+
+    "name": "Apple Creek Rest Area - East (I 94 MP 168.5) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/applecreekcenter.jpg",
+    "description": "Apple Creek Rest Area - South (I 94 MP 168.5) - NDDOT",
+
+    "name": "Apple Creek Rest Area - South (I 94 MP 168.5) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/applecreekpavement.jpg",
+    "description": "Apple Creek Rest Area - Pavement (I 94 MP 168.5) - NDDOT",
+
+    "name": "Apple Creek Rest Area - Pavement (I 94 MP 168.5) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/sterlingwest.jpg",
+    "description": "Sterling - West (I 94 MP 184.5) - NDDOT",
+
+    "name": "Sterling - West (I 94 MP 184.5) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/sterlingeast.jpg",
+    "description": "Sterling - East (I 94 MP 184.5) - NDDOT",
+
+    "name": "Sterling - East (I 94 MP 184.5) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/sterlingcenter.jpg",
+    "description": "Sterling - South (I 94 MP 184.5) - NDDOT",
+
+    "name": "Sterling - South (I 94 MP 184.5) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/sterlingpavement.jpg",
+    "description": "Sterling - Pavement (I 94 MP 184.5) - NDDOT",
+
+    "name": "Sterling - Pavement (I 94 MP 184.5) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/I-94Mile213West.jpg",
+    "description": "Tappen - West (I 94 MP 213.4) - LiveView",
+
+    "name": "Tappen - West (I 94 MP 213.4) - LiveView"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/I-94Mile213North.jpg",
+    "description": "Tappen -North (I 94 MP 213.4) - LiveView",
+
+    "name": "Tappen -North (I 94 MP 213.4) - LiveView"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/I-94Mile213East.jpg",
+    "description": "Tappen - East (I 94 MP 213.4) - LiveView",
+
+    "name": "Tappen - East (I 94 MP 213.4) - LiveView"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/I-94Mile213Pavement.jpg",
+    "description": "Tappen - Pavement (I 94 MP 213.4) - LiveView",
+
+    "name": "Tappen - Pavement (I 94 MP 213.4) - LiveView"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/medinawest.jpg",
+    "description": "Medina - West (I 94 MP 231.29) - NDDOT",
+
+    "name": "Medina - West (I 94 MP 231.29) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/medinaeast.jpg",
+    "description": "Medina - East (I 94 MP 231.29) - NDDOT",
+
+    "name": "Medina - East (I 94 MP 231.29) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/medinacenter.jpg",
+    "description": "Medina - South (I 94 MP 231.29) - NDDOT",
+
+    "name": "Medina - South (I 94 MP 231.29) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/medinapavement.jpg",
+    "description": "Medina - Pavement (I 94 MP 231.29) - NDDOT",
+
+    "name": "Medina - Pavement (I 94 MP 231.29) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/jamestownebwest.jpg",
+    "description": "Jamestown East Bound - West (I 94 MP 255.3) - NDDOT",
+
+    "name": "Jamestown East Bound - West (I 94 MP 255.3) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/jamestownebcenter.jpg",
+    "description": "Jamestown East Bound - North (I 94 MP 255.3) - NDDOT",
+
+    "name": "Jamestown East Bound - North (I 94 MP 255.3) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/jamestownebeast.jpg",
+    "description": "Jamestown East Bound - East (I 94 MP 255.3) - NDDOT",
+
+    "name": "Jamestown East Bound - East (I 94 MP 255.3) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/jamestownebpavement.jpg",
+    "description": "Jamestown East Bound - Pavement (I 94 MP 255.3) - NDDOT",
+
+    "name": "Jamestown East Bound - Pavement (I 94 MP 255.3) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/jamestown2wbwest.jpg",
+    "description": "Jamestown West Bound - West (I 94 MP 257.38) - NDDOT",
+
+    "name": "Jamestown West Bound - West (I 94 MP 257.38) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/jamestown2wbeast.jpg",
+    "description": "Jamestown West Bound - East (I 94 MP 257.38) - NDDOT",
+
+    "name": "Jamestown West Bound - East (I 94 MP 257.38) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/jamestown2wbcenter.jpg",
+    "description": "Jamestown West Bound - South (I 94 MP 257.38) - NDDOT",
+
+    "name": "Jamestown West Bound - South (I 94 MP 257.38) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/jamestown2wbpavement.jpg",
+    "description": "Jamestown West Bound - Pavement (I 94 MP 257.38) - NDDOT",
+
+    "name": "Jamestown West Bound - Pavement (I 94 MP 257.38) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/jamestown2ebwest.jpg",
+    "description": "Jamestown East Bound - West (I 94 MP 259.19) - NDDOT",
+
+    "name": "Jamestown East Bound - West (I 94 MP 259.19) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/jamestown2ebeast.jpg",
+    "description": "Jamestown East Bound - East (I 94 MP 259.19) - NDDOT",
+
+    "name": "Jamestown East Bound - East (I 94 MP 259.19) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/jamestown2ebcenter.jpg",
+    "description": "Jamestown East Bound - South (I 94 MP 259.19) - NDDOT",
+
+    "name": "Jamestown East Bound - South (I 94 MP 259.19) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/jamestown2ebpavement.jpg",
+    "description": "Jamestown Eastbound - Pavement (I 94 MP 259.19) - NDDOT",
+
+    "name": "Jamestown Eastbound - Pavement (I 94 MP 259.19) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/jamestownwbwest.jpg",
+    "description": "Jamestown West Bound - West (I 94 MP 261.3) - NDDOT",
+
+    "name": "Jamestown West Bound - West (I 94 MP 261.3) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/jamestownwbeast.jpg",
+    "description": "Jamestown West Bound - East (I 94 MP 261.3) - NDDOT",
+
+    "name": "Jamestown West Bound - East (I 94 MP 261.3) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/jamestownwbcenter.jpg",
+    "description": "Jamestown West Bound - South (I 94 MP 261.3) - NDDOT",
+
+    "name": "Jamestown West Bound - South (I 94 MP 261.3) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/jamestownwbpavement.jpg",
+    "description": "Jamestown West Bound - Pavement (I 94 MP 261.3) - NDDOT",
+
+    "name": "Jamestown West Bound - Pavement (I 94 MP 261.3) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/oriskawest.jpg",
+    "description": "Oriska Rest Area - West (I 94 MP 304.5) - NDDOT",
+
+    "name": "Oriska Rest Area - West (I 94 MP 304.5) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/oriskacenter.jpg",
+    "description": "Oriska Rest Area - West (I 94 MP 304.5) - NDDOT",
+
+    "name": "Oriska Rest Area - West (I 94 MP 304.5) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/oriskaeast.jpg",
+    "description": "Oriska Rest Area - East (I 94 MP 304.5) - NDDOT",
+
+    "name": "Oriska Rest Area - East (I 94 MP 304.5) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/oriskapavementwb.jpg",
+    "description": "Oriska Rest Area -  Pavement WB (I 94 MP 304.5) - NDDOT",
+
+    "name": "Oriska Rest Area - Pavement WB (I 94 MP 304.5) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/oriskapavementeb.jpg",
+    "description": "Oriska Rest Area - Pavement EB (I 94 MP 304.5) - NDDOT",
+
+    "name": "Oriska Rest Area - Pavement EB (I 94 MP 304.5) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/casseltonwest.jpg",
+    "description": "Casselton - West (I 94 MP 330.5) - NDDOT",
+
+    "name": "Casselton - West (I 94 MP 330.5) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/casseltoncenter.jpg",
+    "description": "Casselton - South (I 94 MP 330.5) - NDDOT",
+
+    "name": "Casselton - South (I 94 MP 330.5) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/casseltoneast.jpg",
+    "description": "Casselton - East (I 94 MP 330.5) - NDDOT",
+
+    "name": "Casselton - East (I 94 MP 330.5) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/casseltonpavement.jpg",
+    "description": "Casselton - Pavement (I 94 MP 330.5) - NDDOT",
+
+    "name": "Casselton - Pavement (I 94 MP 330.5) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/fargoebwest.jpg",
+    "description": "West Fargo East Bound - West (I 94 MP 342.8) - NDDOT",
+
+    "name": "West Fargo East Bound - West (I 94 MP 342.8) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/fargoebcenter.jpg",
+    "description": "West Fargo East Bound - West (I 94 MP 342.8) - NDDOT",
+
+    "name": "West Fargo East Bound - West (I 94 MP 342.8) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/fargoebeast.jpg",
+    "description": "West Fargo East Bound - East (I 94 MP 342.8) - NDDOT",
+
+    "name": "West Fargo East Bound - East (I 94 MP 342.8) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/fargoebpavement.jpg",
+    "description": "West Fargo East Bound - Pavement (I 94 MP 342.8) - NDDOT",
+
+    "name": "West Fargo East Bound - Pavement (I 94 MP 342.8) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/fargotrilevelwest.jpg",
+    "description": "Fargo - West (I 29 & I 94 Interchange) - NDDOT",
+
+    "name": "Fargo - West (I 29 & I 94 Interchange) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/fargotrilevelnorth.jpg",
+    "description": "Fargo - North (I 29 & I 94 Interchange) - NDDOT",
+
+    "name": "Fargo - North (I 29 & I 94 Interchange) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/fargotrileveleast.jpg",
+    "description": "Fargo - East (I 29 & I 94 Interchange) - NDDOT",
+
+    "name": "Fargo - East (I 29 & I 94 Interchange) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/fargotrilevelsouth.jpg",
+    "description": "Fargo - South (I 29 & I 94 Interchange) - NDDOT",
+
+    "name": "Fargo - South (I 29 & I 94 Interchange) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/redriverwest.jpg",
+    "description": "Red River Bridge - West (I 94 MP 352.4) - NDDOT",
+
+    "name": "Red River Bridge - West (I 94 MP 352.4) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/redrivernorth.jpg",
+    "description": "Red River Bridge - North (I 94 MP 352.4) - NDDOT",
+
+    "name": "Red River Bridge - North (I 94 MP 352.4) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/redrivereast.jpg",
+    "description": "Red River Bridge - East (I 94 MP 352.4) - NDDOT",
+
+    "name": "Red River Bridge - East (I 94 MP 352.4) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/willistonwest.jpg",
+    "description": "Williston - West (US 2 MP 14.8) - NDDOT",
+
+    "name": "Williston - West (US 2 MP 14.8) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/willistoncenter.jpg",
+    "description": "Williston - South (US 2 MP 14.8) - NDDOT",
+
+    "name": "Williston - South (US 2 MP 14.8) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/willistoneast.jpg",
+    "description": "Williston - East (US 2 MP 14.8) - NDDOT",
+
+    "name": "Williston - East (US 2 MP 14.8) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/willistonpavementwb.jpg",
+    "description": "Williston - Pavement EB (US 2 MP 14.8) - NDDOT",
+
+    "name": "Williston - Pavement EB (US 2 MP 14.8) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/willistonpavementeb.jpg",
+    "description": "Williston - Pavement WB (US 2 MP 14.8) - NDDOT",
+
+    "name": "Williston - Pavement WB (US 2 MP 14.8) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/blaisdellwest.jpg",
+    "description": "Blaisdell - West (US 2 MP 107) - NDDOT",
+
+    "name": "Blaisdell - West (US 2 MP 107) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/blaisdelleast.jpg",
+    "description": "Blaisdell - East (US 2 MP 107) - NDDOT",
+
+    "name": "Blaisdell - East (US 2 MP 107) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/blaisdellcenter.jpg",
+    "description": "Blaisdell - South (US 2 MP 107) - NDDOT",
+
+    "name": "Blaisdell - South (US 2 MP 107) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/blaisdellpavement.jpg",
+    "description": "Blaisdell - Pavement (US 2 MP 107) - NDDOT",
+
+    "name": "Blaisdell - Pavement (US 2 MP 107) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/US2RP142MinotWest.jpg",
+    "description": "Minot - West (US 2 MP 142.73) - NDDOT",
+
+    "name": "Minot - West (US 2 MP 142.73) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/US2RP142MinotCenter.jpg",
+    "description": "Minot - North (US 2 MP 142.73) - NDDOT",
+
+    "name": "Minot - North (US 2 MP 142.73) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/US2RP142MinotEast.jpg",
+    "description": "Minot - East (US 2 MP 142.73) - NDDOT",
+
+    "name": "Minot - East (US 2 MP 142.73) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/US2RP142MinotPavement.jpg",
+    "description": "Minot - Pavement (US 2 MP 142.73) - NDDOT",
+
+    "name": "Minot - Pavement (US 2 MP 142.73) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/US2RP151MinotWest.jpg",
+    "description": "Minot - West (US 2 MP 151.4) - NDDOT",
+
+    "name": "Minot - West (US 2 MP 151.4) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/US2RP151MinotEast.jpg",
+    "description": "Minot - East (US 2 MP 151.4) - NDDOT",
+
+    "name": "Minot - East (US 2 MP 151.4) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/US2RP151MinotCenter.jpg",
+    "description": "Minot - South (US 2 MP 151.4) - NDDOT",
+
+    "name": "Minot - South (US 2 MP 151.4) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/US2RP151MinotPavement.jpg",
+    "description": "Minot - Pavement (US 2 MP 151.4) - NDDOT",
+
+    "name": "Minot - Pavement (US 2 MP 151.4) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/rugbywest.jpg",
+    "description": "Rugby - West (US 2 MP 207.3) - NDDOT",
+
+    "name": "Rugby - West (US 2 MP 207.3) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/rugbycenter.jpg",
+    "description": "Rugby - North (US 2 MP 207.3) - NDDOT",
+
+    "name": "Rugby - North (US 2 MP 207.3) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/rugbyeast.jpg",
+    "description": "Rugby - East (US 2 MP 207.3) - NDDOT",
+
+    "name": "Rugby - East (US 2 MP 207.3) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/rugbypavementwb.jpg",
+    "description": "Rugby - Pavement WB (US 2 MP 207.3) - NDDOT",
+
+    "name": "Rugby - Pavement WB (US 2 MP 207.3) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/rugbypavementeb.jpg",
+    "description": "Rugby - Pavement EB (US 2 MP 207.3) - NDDOT",
+
+    "name": "Rugby - Pavement EB (US 2 MP 207.3) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/leedswest.jpg",
+    "description": "Leeds - West (US 2 MP 245.703) - NDDOT",
+
+    "name": "Leeds - West (US 2 MP 245.703) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/leedseast.jpg",
+    "description": "Leeds - East (US 2 MP 245.703) - NDDOT",
+
+    "name": "Leeds - East (US 2 MP 245.703) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/leedscenter.jpg",
+    "description": "Leeds - South (US 2 & US 281 Interchange) - NDDOT",
+
+    "name": "Leeds - South (US 2 & US 281 Interchange) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/leedssouth.jpg",
+    "description": "Leeds - South (US 281 MP 175.184) - NDDOT",
+
+    "name": "Leeds - South (US 281 MP 175.184) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/leedspavement.jpg",
+    "description": "Leeds - Pavement (US 2 MP 245.703) - NDDOT",
+
+    "name": "Leeds - Pavement (US 2 MP 245.703) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/US2RP267DevilsLakeWest.jpg",
+    "description": "Devils Lake - West (US 2 MP 267.77)",
+
+    "name": "Devils Lake - West (US 2 MP 267.77)"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/US2RP267DevilsLakeCenter.jpg",
+    "description": "Devils Lake - North (US 2 MP 267.77)",
+
+    "name": "Devils Lake - North (US 2 MP 267.77)"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/US2RP267DevilsLakeEast.jpg",
+    "description": "Devils Lake - East (US 2 MP 267.77)",
+
+    "name": "Devils Lake - East (US 2 MP 267.77)"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/US2RP267DevilsLakePavement.jpg",
+    "description": "Devils Lake - Pavment (US 2 MP 267.77)",
+
+    "name": "Devils Lake - Pavment (US 2 MP 267.77)"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/US2RP271DevilsLakeWest.jpg",
+    "description": "Devils Lake - West (US 2 MP 271.1)",
+
+    "name": "Devils Lake - West (US 2 MP 271.1)"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/US2RP271DevilsLakeCenter.jpg",
+    "description": "Devils Lake - North (US 2 MP 271.1)",
+
+    "name": "Devils Lake - North (US 2 MP 271.1)"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/US2RP271DevilsLakeEast.jpg",
+    "description": "Devils Lake - East (US 2 MP 271.1)",
+
+    "name": "Devils Lake - East (US 2 MP 271.1)"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/US2RP271DevilsLakePavement.jpg",
+    "description": "Devils Lake - Pavement (US 2 MP 271.1)",
+
+    "name": "Devils Lake - Pavement (US 2 MP 271.1)"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/crarycenter.jpg",
+    "description": "Crary Rest Area - East (ND 2 MP 278) - NDDOT",
+
+    "name": "Crary Rest Area - East (ND 2 MP 278) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/crarywest.jpg",
+    "description": "Crary Rest Area - Northeast (ND 2 MP 278) - NDDOT",
+
+    "name": "Crary Rest Area - Northeast (ND 2 MP 278) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/craryeast.jpg",
+    "description": "Crary Rest Area - Southeast (ND 2 MP 278) - NDDOT",
+
+    "name": "Crary Rest Area - Southeast (ND 2 MP 278) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/crarypavementwb.jpg",
+    "description": "Crary Rest Area - Pavement WB (ND 2 MP 278) - NDDOT",
+
+    "name": "Crary Rest Area - Pavement WB (ND 2 MP 278) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/crarypavementeb.jpg",
+    "description": "Crary Rest Area - Pavement EB (ND 2 MP 278) - NDDOT",
+
+    "name": "Crary Rest Area - Pavement EB (ND 2 MP 278) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/emeradowest.jpg",
+    "description": "Emerado - West (US 2 MP 340.5) - NDDOT",
+
+    "name": "Emerado - West (US 2 MP 340.5) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/emeradocenter.jpg",
+    "description": "Emerado - North (US 2 MP 340.5) - NDDOT",
+
+    "name": "Emerado - North (US 2 MP 340.5) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/emeradoeast.jpg",
+    "description": "Emerado - East (US 2 MP 340.5) - NDDOT",
+
+    "name": "Emerado - East (US 2 MP 340.5) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/emeradopavementwb.jpg",
+    "description": "Emerado - Pavement WB (US 2 MP 340.5) - NDDOT",
+
+    "name": "Emerado - Pavement WB (US 2 MP 340.5) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/emeradopavementeb.jpg",
+    "description": "Emerado - Pavement EB (US 2 MP 340.5) - NDDOT",
+
+    "name": "Emerado - Pavement EB (US 2 MP 340.5) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/grandforksebwest.jpg",
+    "description": "Grand Forks US 2 EB - West (US 2 MP 354.59) - NDDOT",
+
+    "name": "Grand Forks US 2 EB - West (US 2 MP 354.59) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/grandforksebcenter.jpg",
+    "description": "Grand Forks US 2 EB - North (US 2 MP 354.59) - NDDOT",
+
+    "name": "Grand Forks US 2 EB - North (US 2 MP 354.59) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/grandforksebeast.jpg",
+    "description": "Grand Forks US 2 EB - East (US 2 MP 354.59) - NDDOT",
+
+    "name": "Grand Forks US 2 EB - East (US 2 MP 354.59) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/grandforksebpavement.jpg",
+    "description": "Grand Forks US 2 EB - Pavement (US 2 MP 354.59) - NDDOT",
+
+    "name": "Grand Forks US 2 EB - Pavement (US 2 MP 354.59) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/marmarthwest.jpg",
+    "description": "Marmarth - West (US 12 MP 4.9) - NDDOT",
+
+    "name": "Marmarth - West (US 12 MP 4.9) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/marmartheast.jpg",
+    "description": "Marmarth - East (US 12 MP 4.9) - NDDOT",
+
+    "name": "Marmarth - East (US 12 MP 4.9) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/marmarthcenter.jpg",
+    "description": "Marmarth - South (US 12 MP 4.9) - NDDOT",
+
+    "name": "Marmarth - South (US 12 MP 4.9) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/marmarthpavement.jpg",
+    "description": "Marmarth - Pavement (US 12 MP 4.9) - NDDOT",
+
+    "name": "Marmarth - Pavement (US 12 MP 4.9) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/portalnorth.jpg",
+    "description": "Portal - North (US 52 MP 3.4) - NDDOT",
+
+    "name": "Portal - North (US 52 MP 3.4) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/portalcenter.jpg",
+    "description": "Portal - East (US 52 MP 3.4) - NDDOT",
+
+    "name": "Portal - East (US 52 MP 3.4) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/portalsouth.jpg",
+    "description": "Portal - South (US 52 MP 3.4) - NDDOT",
+
+    "name": "Portal - South (US 52 MP 3.4) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/portalpavement.jpg",
+    "description": "Portal - Pavement (US 52 MP 3.4) - NDDOT",
+
+    "name": "Portal - Pavement (US 52 MP 3.4) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/kenmarenorth.jpg",
+    "description": "Kenmare - North (US 52 MP 36) - NDDOT",
+
+    "name": "Kenmare - North (US 52 MP 36) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/kenmarecenter.jpg",
+    "description": "Kenmare - East (US 52 & ND 5) - NDDOT",
+
+    "name": "Kenmare - East (US 52 & ND 5) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/kenmaresouth.jpg",
+    "description": "Kenmare - South (US 52 MP 36) - NDDOT",
+
+    "name": "Kenmare - South (US 52 MP 36) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/kenmarepavement.jpg",
+    "description": "Kenmare - Pavement (US 52 MP 36) - NDDOT",
+
+    "name": "Kenmare - Pavement (US 52 MP 36) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/US52RP98MinotNorthWest.jpg",
+    "description": "Minot - NW (US 52 MP 98) - NDDOT",
+
+    "name": "Minot - NW (US 52 MP 98) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/US52RP98MinotCenter.jpg",
+    "description": "Minot - NE (US 52 MP 98) - NDDOT",
+
+    "name": "Minot - NE (US 52 MP 98) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/US52RP98MinotSouthEast.jpg",
+    "description": "Minot - SE (US 52 MP 98) - NDDOT",
+
+    "name": "Minot - SE (US 52 MP 98) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/US52RP98MinotPavement.jpg",
+    "description": "Minot - Pavement (US 52 MP 98) - NDDOT",
+
+    "name": "Minot - Pavement (US 52 MP 98) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/bismarcksbnorth.jpg",
+    "description": "Bismarck SB - North (US 83 MP 91.748) - NDDOT",
+
+    "name": "Bismarck SB - North (US 83 MP 91.748) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/bismarcksbcenter.jpg",
+    "description": "Bismarck SB - East (US 83 MP 91.748) - NDDOT",
+
+    "name": "Bismarck SB - East (US 83 MP 91.748) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/bismarcksbsouth.jpg",
+    "description": "Bismarck SB - South (US 83 MP 91.748) - NDDOT",
+
+    "name": "Bismarck SB - South (US 83 MP 91.748) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/bismarcksbpavement.jpg",
+    "description": "Bismarck SB - Pavement (US 83 MP 91.748) - NDDOT",
+
+    "name": "Bismarck SB - Pavement (US 83 MP 91.748) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/coleharborcenter.jpg",
+    "description": "Coleharbor - West (US 83 MP 151.6) - NDDOT",
+
+    "name": "Coleharbor - West (US 83 MP 151.6) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/coleharbornorth.jpg",
+    "description": "Coleharbor - North (US 83 MP 151.6) - NDDOT",
+
+    "name": "Coleharbor - North (US 83 MP 151.6) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/coleharborsouth.jpg",
+    "description": "Coleharbor - South (US 83 MP 151.6) - NDDOT",
+
+    "name": "Coleharbor - South (US 83 MP 151.6) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/coleharborpavement.jpg",
+    "description": "Coleharbor - Pavement (US 83 MP 151.6) - NDDOT",
+
+    "name": "Coleharbor - Pavement (US 83 MP 151.6) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/US83RP196MinotCenter.jpg",
+    "description": "Minot - West (US 83 MP 196.39) - NDDOT",
+
+    "name": "Minot - West (US 83 MP 196.39) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/US83RP196MinotNorth.jpg",
+    "description": "Minot - North (US 83 MP 196.39) - NDDOT",
+
+    "name": "Minot - North (US 83 MP 196.39) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/US83RP196MinotSouth.jpg",
+    "description": "Minot - South (US 83 MP 196.39) - NDDOT",
+
+    "name": "Minot - South (US 83 MP 196.39) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/US83RP196MinotPavement.jpg",
+    "description": "Minot - Pavement (US 83 MP 196.39) - NDDOT",
+
+    "name": "Minot - Pavement (US 83 MP 196.39) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/minotnbcenter.jpg",
+    "description": "Minot NB - West (US 83 MP 204) - NDDOT",
+
+    "name": "Minot NB - West (US 83 MP 204) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/minotnbnorth.jpg",
+    "description": "Minot NB - North (US 83 MP 204) - NDDOT",
+
+    "name": "Minot NB - North (US 83 MP 204) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/minotnbsouth.jpg",
+    "description": "Minot NB - South (US 83 MP 204) - NDDOT",
+
+    "name": "Minot NB - South (US 83 MP 204) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/minotnbpavement.jpg",
+    "description": "Minot NB - Pavement (US 83 MP 204) - NDDOT",
+
+    "name": "Minot NB - Pavement (US 83 MP 204) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/US83RP211MinotNorth.jpg",
+    "description": "Minot - North (US 83 MP 211.5) - NDDOT",
+
+    "name": "Minot - North (US 83 MP 211.5) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/US83RP211MinotCenter.jpg",
+    "description": "Minot - East (US 83 MP 211.5) - NDDOT",
+
+    "name": "Minot - East (US 83 MP 211.5) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/US83RP211MinotSouth.jpg",
+    "description": "Minot - South (US 83 MP 211.5) - NDDOT",
+
+    "name": "Minot - South (US 83 MP 211.5) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/US83RP211MinotPavement.jpg",
+    "description": "Minot - Pavement (US 83 MP 211.5) - NDDOT",
+
+    "name": "Minot - Pavement (US 83 MP 211.5) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/bowmancenter.jpg",
+    "description": "Bowman - West (US 85 MP 12.2) - NDDOT",
+
+    "name": "Bowman - West (US 85 MP 12.2) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/bowmannorth.jpg",
+    "description": "Bowman - North (US 85 MP 12.2) - NDDOT",
+
+    "name": "Bowman - North (US 85 MP 12.2) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/bowmansouth.jpg",
+    "description": "Bowman - South (US 85 MP 12.2) - NDDOT",
+
+    "name": "Bowman - South (US 85 MP 12.2) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/bowmanpavement.jpg",
+    "description": "Bowman - Pavement (US 85 MP 12.2) - NDDOT",
+
+    "name": "Bowman - Pavement (US 85 MP 12.2) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/US-85Mile39West.jpg",
+    "description": "Amidon - West (US 85 MP 39.8) - LiveView",
+
+    "name": "Amidon - West (US 85 MP 39.8) - LiveView"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/US-85Mile39East.jpg",
+    "description": "Amidon - East (US 85 MP 39.8) - LiveView",
+
+    "name": "Amidon - East (US 85 MP 39.8) - LiveView"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/US-85Mile39South.jpg",
+    "description": "Amidon - South (US 85 MP 39.8) - LiveView",
+
+    "name": "Amidon - South (US 85 MP 39.8) - LiveView"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/US-85Mile39RoadSurface.jpg",
+    "description": "Amidon - Pavement (US 85 MP 39.8) - LiveView",
+
+    "name": "Amidon - Pavement (US 85 MP 39.8) - LiveView"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/fairfieldcenter.jpg",
+    "description": "Fairfield - West (US 85 MP 80.9) - NDDOT",
+
+    "name": "Fairfield - West (US 85 MP 80.9) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/fairfieldnorth.jpg",
+    "description": "Fairfield - North (US 85 MP 80.9) - NDDOT",
+
+    "name": "Fairfield - North (US 85 MP 80.9) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/fairfieldsouth.jpg",
+    "description": "Fairfield - South (US 85 MP 80.9) - NDDOT",
+
+    "name": "Fairfield - South (US 85 MP 80.9) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/fairfieldpavement.jpg",
+    "description": "Fairfield - Pavement (US 85 MP 80.9) - NDDOT",
+
+    "name": "Fairfield - Pavement (US 85 MP 80.9) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/grassybuttenorth.jpg",
+    "description": "Grassy Butte - North (US 85 MP 113.7) - NDDOT",
+
+    "name": "Grassy Butte - North (US 85 MP 113.7) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/grassybuttecenter.jpg",
+    "description": "Grassy Butte - East (US 85 MP 113.7) - NDDOT",
+
+    "name": "Grassy Butte - East (US 85 MP 113.7) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/grassybuttesouth.jpg",
+    "description": "Grassy Butte - South (US 85 MP 113.7) - NDDOT",
+
+    "name": "Grassy Butte - South (US 85 MP 113.7) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/grassybuttepavement.jpg",
+    "description": "Grassy Butte - Pavement (US 85 MP 113.7) - NDDOT",
+
+    "name": "Grassy Butte - Pavement (US 85 MP 113.7) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/us-85mile126north.jpg",
+    "description": "Long X Bridge - North (US 85 MP 126.5) - Liveview",
+
+    "name": "Long X Bridge - North (US 85 MP 126.5) - Liveview"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/us-85mile126east.jpg",
+    "description": "Long X Bridge - East (US 85 MP 126.5) - Liveview",
+
+    "name": "Long X Bridge - East (US 85 MP 126.5) - Liveview"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/us-85mile126south.jpg",
+    "description": "Long X Bridge - South (US 85 MP 126.5) - Liveview",
+
+    "name": "Long X Bridge - South (US 85 MP 126.5) - Liveview"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/us-85mile126longxbridge.jpg",
+    "description": "Long X Bridge (US 85 MP 126.5) - Liveview",
+
+    "name": "Long X Bridge (US 85 MP 126.5) - Liveview"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/us-85mile126pavement.jpg",
+    "description": "Long X Bridge - Pavement (US 85 MP 126.5) - Liveview",
+
+    "name": "Long X Bridge - Pavement (US 85 MP 126.5) - Liveview"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/watfordcitynorth.jpg",
+    "description": "Watford City - North (US 85 MP 137.28)",
+
+    "name": "Watford City - North (US 85 MP 137.28)"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/watfordcitycenter.jpg",
+    "description": "Watford City - East (US 85 MP 137.28)",
+
+    "name": "Watford City - East (US 85 MP 137.28)"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/watfordcitysouth.jpg",
+    "description": "Watford City - South (US 85 MP 137.28)",
+
+    "name": "Watford City - South (US 85 MP 137.28)"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/watfordcitypavement.jpg",
+    "description": "Watford City - Pavement (US 85 MP 137.28)",
+
+    "name": "Watford City - Pavement (US 85 MP 137.28)"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/pangernorth.jpg",
+    "description": "Panger - North (US 85 MP 55.2) - NDDOT",
+
+    "name": "Panger - North (US 85 MP 55.2) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/pangercenter.jpg",
+    "description": "Panger - East (US 85 MP 55.2) - NDDOT",
+
+    "name": "Panger - East (US 85 MP 55.2) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/pangersouth.jpg",
+    "description": "Panger - South (US 85 MP 55.2) - NDDOT",
+
+    "name": "Panger - South (US 85 MP 55.2) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/pangerpavement.jpg",
+    "description": "Panger - Pavement (US 85 MP 55.2) - NDDOT",
+
+    "name": "Panger - Pavement (US 85 MP 55.2) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/dunseithwest.jpg",
+    "description": "Dunseith - West (US 281 MP 253.2) - NDDOT",
+
+    "name": "Dunseith - West (US 281 MP 253.2) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/dunseithcenter.jpg",
+    "description": "Dunseith - North (US 281 MP 253.2) - NDDOT",
+
+    "name": "Dunseith - North (US 281 MP 253.2) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/dunseitheast.jpg",
+    "description": "Dunseith - East (US 281 MP 253.2) - NDDOT",
+
+    "name": "Dunseith - East (US 281 MP 253.2) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/dunseithsouth.jpg",
+    "description": "Dunseith - South (ND 3 MP 233.5) - NDDOT",
+
+    "name": "Dunseith - South (ND 3 MP 233.5) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/dunseithpavement.jpg",
+    "description": "Dunseith - Pavement (US 281 MP 253.2) - NDDOT",
+
+    "name": "Dunseith - Pavement (US 281 MP 253.2) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/binfordcenter.jpg",
+    "description": "Binford - Southeast (ND 1 & ND 65 Interchange) - NDDOT",
+
+    "name": "Binford - Southeast (ND 1 & ND 65 Interchange) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/binfordeast.jpg",
+    "description": "Binford - East (ND 65 MP 9.383) - NDDOT",
+
+    "name": "Binford - East (ND 65 MP 9.383) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/binfordsouth.jpg",
+    "description": "Binford - South (ND 1 MP 128.493) - NDDOT",
+
+    "name": "Binford - South (ND 1 MP 128.493) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/binfordnorth.jpg",
+    "description": "Binford - North (ND 1 MP 128.493) - NDDOT",
+
+    "name": "Binford - North (ND 1 MP 128.493) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/binfordpavement.jpg",
+    "description": "Binford - Pavement (ND 1 MP 128.493) - NDDOT",
+
+    "name": "Binford - Pavement (ND 1 MP 128.493) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/wishekwest.jpg",
+    "description": "Wishek - West (ND 3 MP 40.7) - NDDOT",
+
+    "name": "Wishek - West (ND 3 MP 40.7) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/wishekeast.jpg",
+    "description": "Wishek - East (ND 3 MP 40.7) - NDDOT",
+
+    "name": "Wishek - East (ND 3 MP 40.7) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/wishekcenter.jpg",
+    "description": "Wishek - North (ND 3 MP 40.7) - NDDOT",
+
+    "name": "Wishek - North (ND 3 MP 40.7) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/wishekpavement.jpg",
+    "description": "Wishek - Pavement (ND 3 MP 40.7) - NDDOT",
+
+    "name": "Wishek - Pavement (ND 3 MP 40.7) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/westhopewest.jpg",
+    "description": "Westhope - West (US 83 MP 253.6) - NDDOT",
+
+    "name": "Westhope - West (US 83 MP 253.6) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/westhopenorth.jpg",
+    "description": "Westhope - North (US 83 MP 253.6) - NDDOT",
+
+    "name": "Westhope - North (US 83 MP 253.6) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/westhopeeast.jpg",
+    "description": "Westhope - East (US 5 MP 152.1) - NDDOT",
+
+    "name": "Westhope - East (US 5 MP 152.1) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/westhopepavement.jpg",
+    "description": "Westhope - Pavement (US 83 MP 253.6) - NDDOT",
+
+    "name": "Westhope - Pavement (US 83 MP 253.6) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/haynesnorth.jpg",
+    "description": "Haynes - North (ND 8 MP 19.7) - NDDOT",
+
+    "name": "Haynes - North (ND 8 MP 19.7) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/haynescenter.jpg",
+    "description": "Haynes - East (ND 8 MP 19.7) - NDDOT",
+
+    "name": "Haynes - East (ND 8 MP 19.7) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/haynessouth.jpg",
+    "description": "Haynes - South (ND 8 MP 19.7) - NDDOT",
+
+    "name": "Haynes - South (ND 8 MP 19.7) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/haynespavement.jpg",
+    "description": "Haynes - Pavement (ND 8 MP 19.7) - NDDOT",
+
+    "name": "Haynes - Pavement (ND 8 MP 19.7) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/mottnorth.jpg",
+    "description": "Mott - North (ND 8 MP 55.2) - NDDOT",
+
+    "name": "Mott - North (ND 8 MP 55.2) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/mottcenter.jpg",
+    "description": "Mott - East (ND 8 MP 55.2) - NDDOT",
+
+    "name": "Mott - East (ND 8 MP 55.2) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/mottsouth.jpg",
+    "description": "Mott - South (ND 8 MP 55.2) - NDDOT",
+
+    "name": "Mott - South (ND 8 MP 55.2) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/mottpavement.jpg",
+    "description": "Mott - Pavement (ND 8 MP 55.2) - NDDOT",
+
+    "name": "Mott - Pavement (ND 8 MP 55.2) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/ashleywest.jpg",
+    "description": "Ashley - West (ND 11 MP 55.5) - NDDOT",
+
+    "name": "Ashley - West (ND 11 MP 55.5) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/ashleyeast.jpg",
+    "description": "Ashley - East (ND 11 MP 55.5) - NDDOT",
+
+    "name": "Ashley - East (ND 11 MP 55.5) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/ashleycenter.jpg",
+    "description": "Ashley - South (ND 11 MP 55.5) - NDDOT",
+
+    "name": "Ashley - South (ND 11 MP 55.5) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/ashleypavement.jpg",
+    "description": "Ashley - Pavement (ND 11 MP 55.5) - NDDOT",
+
+    "name": "Ashley - Pavement (ND 11 MP 55.5) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/formancenter.jpg",
+    "description": "Forman - West (ND 11 MP 129.8) - NDDOT",
+
+    "name": "Forman - West (ND 11 MP 129.8) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/formannorth.jpg",
+    "description": "Forman - North (ND 11 MP 129.8) - NDDOT",
+
+    "name": "Forman - North (ND 11 MP 129.8) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/formansouth.jpg",
+    "description": "Forman - South (ND 11 MP 129.8) - NDDOT",
+
+    "name": "Forman - South (ND 11 MP 129.8) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/formanpavement.jpg",
+    "description": "Forman - Pavement (ND 11 MP 129.8) - NDDOT",
+
+    "name": "Forman - Pavement (ND 11 MP 129.8) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/ND-13Mile263West.jpg",
+    "description": "Kulm - West (ND 13 MP 263.3) - LiveView",
+
+    "name": "Kulm - West (ND 13 MP 263.3) - LiveView"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/ND-13Mile263North.jpg",
+    "description": "Kulm - North (ND 13 MP 263.3) - LiveView",
+
+    "name": "Kulm - North (ND 13 MP 263.3) - LiveView"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/ND-13Mile263South.jpg",
+    "description": "Kulm - South (ND 13 MP 263.3) - LiveView",
+
+    "name": "Kulm - South (ND 13 MP 263.3) - LiveView"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/ND-13Mile263Pavement.jpg",
+    "description": "Kulm - Pavement (ND 13 MP 263.3) - LiveView",
+
+    "name": "Kulm - Pavement (ND 13 MP 263.3) - LiveView"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/ND-13Mile308West.jpg",
+    "description": "Verona - West (ND 13 MP 308) - LiveView",
+
+    "name": "Verona - West (ND 13 MP 308) - LiveView"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/ND-13Mile308North.jpg",
+    "description": "Verona - North (ND 13 MP 308) - LiveView",
+
+    "name": "Verona - North (ND 13 MP 308) - LiveView"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/ND-13Mile308East.jpg",
+    "description": "Verona - East (ND 13 MP 308) - LiveView",
+
+    "name": "Verona - East (ND 13 MP 308) - LiveView"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/ND-13Mile308Pavement.jpg",
+    "description": "Verona - Pavement (ND 13 MP 308) - LiveView",
+
+    "name": "Verona - Pavement (ND 13 MP 308) - LiveView"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/ND13RP378MooretonWest.jpg",
+    "description": "Mooreton - West (ND 13 MP 378) - NDDOT",
+
+    "name": "Mooreton - West (ND 13 MP 378) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/ND13RP378MooretonEast.jpg",
+    "description": "Mooreton - East (ND 13 MP 378) - NDDOT",
+
+    "name": "Mooreton - East (ND 13 MP 378) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/ND13RP378MooretonCenter.jpg",
+    "description": "Mooreton - South (ND 13 MP 378) - NDDOT",
+
+    "name": "Mooreton - South (ND 13 MP 378) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/ND13RP378MooretonPavement.jpg",
+    "description": "Mooreton - Pavement (ND 13 MP 378) - NDDOT",
+
+    "name": "Mooreton - Pavement (ND 13 MP 378) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/denhoffwest.jpg",
+    "description": "Denhoff - West (ND 200 MP 236.225) - NDDOT",
+
+    "name": "Denhoff - West (ND 200 MP 236.225) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/denhoffnorth.jpg",
+    "description": "Denhoff - North (Jct ND 200 and ND 14) - NDDOT",
+
+    "name": "Denhoff - North (Jct ND 200 and ND 14) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/denhoffeast.jpg",
+    "description": "Denhoff - East (ND 200 MP 236.225) - NDDOT",
+
+    "name": "Denhoff - East (ND 200 MP 236.225) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/denhoffsouth.jpg",
+    "description": "Denhoff - South (ND 14 MP 45.777) - NDDOT",
+
+    "name": "Denhoff - South (ND 14 MP 45.777) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/denhoffpavement.jpg",
+    "description": "Denhoff - Pavement (ND 14 MP 45.777) - NDDOT",
+
+    "name": "Denhoff - Pavement (ND 14 MP 45.777) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/US-52Mile141West.jpg",
+    "description": "Drake - West (US 52 & ND 14 Interchange) - NDDOT",
+
+    "name": "Drake - West (US 52 & ND 14 Interchange) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/US-52Mile141North.jpg",
+    "description": "Drake - North (US 52 & ND 14 Interchange) - NDDOT",
+
+    "name": "Drake - North (US 52 & ND 14 Interchange) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/US-52Mile141East.jpg",
+    "description": "Drake - East (US 52 & ND 14 Interchange) - NDDOT",
+
+    "name": "Drake - East (US 52 & ND 14 Interchange) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/US-52Mile141Intersection.jpg",
+    "description": "Drake - South (US 52 & ND 14 Interchange) - NDDOT",
+
+    "name": "Drake - South (US 52 & ND 14 Interchange) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/US-52Mile141Pavement.jpg",
+    "description": "Drake - Pavement (US 52 & ND 14 Interchange) - NDDOT",
+
+    "name": "Drake - Pavement (US 52 & ND 14 Interchange) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/bottineaunorth.jpg",
+    "description": "Bottineau - North (ND 14 MP 171) - NDDOT",
+
+    "name": "Bottineau - North (ND 14 MP 171) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/bottineaucenter.jpg",
+    "description": "Bottineau - East (ND 14 & ND 43 ) - NDDOT",
+
+    "name": "Bottineau - East (ND 14 & ND 43 ) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/bottineausouth.jpg",
+    "description": "Bottineau - South (ND 14 MP 171) - NDDOT",
+
+    "name": "Bottineau - South (ND 14 MP 171) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/bottineaupavement.jpg",
+    "description": "Bottineau - Pavement (ND 14 MP 171) - NDDOT",
+
+    "name": "Bottineau - Pavement (ND 14 MP 171) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/newrockfordnorth.jpg",
+    "description": "New Rockford - North (US 281 MP 128.5) - NDDOT",
+
+    "name": "New Rockford - North (US 281 MP 128.5) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/newrockfordeast.jpg",
+    "description": "New Rockford - East (ND 15 MP 27.2) - NDDOT",
+
+    "name": "New Rockford - East (ND 15 MP 27.2) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/newrockfordcenter.jpg",
+    "description": "New Rockford - Southeast (US 281 & ND 15 Interchange) - NDDOT",
+
+    "name": "New Rockford - Southeast (US 281 & ND 15 Interchange) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/newrockfordsouth.jpg",
+    "description": "New Rockford - South (US 281 MP 128.5) - NDDOT",
+
+    "name": "New Rockford - South (US 281 MP 128.5) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/newrockfordpavement.jpg",
+    "description": "New Rockford - Pavement (US 281 MP 128.5) - NDDOT",
+
+    "name": "New Rockford - Pavement (US 281 MP 128.5) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/ND-16Mile117North.jpg",
+    "description": "Trotters North - North (ND 16 MP 117.5) - LiveView",
+
+    "name": "Trotters North - North (ND 16 MP 117.5) - LiveView"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/ND-16Mile117East.jpg",
+    "description": "Trotters North - East (ND 16 MP 117.5) - LiveView",
+
+    "name": "Trotters North - East (ND 16 MP 117.5) - LiveView"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/ND-16Mile117South.jpg",
+    "description": "Trotters North - South (ND 16 MP 117.5) - LiveView",
+
+    "name": "Trotters North - South (ND 16 MP 117.5) - LiveView"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/ND-16Mile117RoadSurface.jpg",
+    "description": "Trotters North - Pavement (ND 16 MP 117.5) - LiveView",
+
+    "name": "Trotters North - Pavement (ND 16 MP 117.5) - LiveView"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/esmondwest.jpg",
+    "description": "Esmond - West (ND 19 MP 100) - NDDOT",
+
+    "name": "Esmond - West (ND 19 MP 100) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/esmondcenter.jpg",
+    "description": "Esmond - Northwest (ND 19 & ND 3 Interchange) - NDDOT",
+
+    "name": "Esmond - Northwest (ND 19 & ND 3 Interchange) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/esmondnorth.jpg",
+    "description": "Esmond - North (ND 19 MP 100) - NDDOT",
+
+    "name": "Esmond - North (ND 19 MP 100) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/esmondeast.jpg",
+    "description": "Esmond - East (ND 19 MP 100) - NDDOT",
+
+    "name": "Esmond - East (ND 19 MP 100) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/esmondsouth.jpg",
+    "description": "Esmond - South (ND 3 MP 177.19) - NDDOT",
+
+    "name": "Esmond - South (ND 3 MP 177.19) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/esmondpavement.jpg",
+    "description": "Esmond - Pavement (ND 19 MP 100) - NDDOT",
+
+    "name": "Esmond - Pavement (ND 19 MP 100) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/campgraftoncenter.jpg",
+    "description": "Camp Grafton - West (ND 57 MP 13.3)",
+
+    "name": "Camp Grafton - West (ND 57 MP 13.3)"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/campgraftonnorth.jpg",
+    "description": "Camp Grafton - North (ND 57 MP 13.3)",
+
+    "name": "Camp Grafton - North (ND 57 MP 13.3)"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/campgraftoneast.jpg",
+    "description": "Camp Grafton - East (ND 20 MP 97.709)",
+
+    "name": "Camp Grafton - East (ND 20 MP 97.709)"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/campgraftonsouth.jpg",
+    "description": "Camp Grafton - South (ND 57 MP 13.3)",
+
+    "name": "Camp Grafton - South (ND 57 MP 13.3)"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/campgraftonpavement.jpg",
+    "description": "Camp Grafton - Pavement (ND 57 MP 13.3)",
+
+    "name": "Camp Grafton - Pavement (ND 57 MP 13.3)"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/daglumwest.jpg",
+    "description": "Daglum - West (ND 21 MP 4) - NDDOT",
+
+    "name": "Daglum - West (ND 21 MP 4) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/daglumcenter.jpg",
+    "description": "Daglum - North (ND 21 MP 4) - NDDOT",
+
+    "name": "Daglum - North (ND 21 MP 4) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/daglumeast.jpg",
+    "description": "Daglum - East (ND 21 MP 4) - NDDOT",
+
+    "name": "Daglum - East (ND 21 MP 4) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/daglumsouth.jpg",
+    "description": "Daglum - South (ND 21 MP 4) - NDDOT",
+
+    "name": "Daglum - South (ND 21 MP 4) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/daglumpavement.jpg",
+    "description": "Daglum - Pavement (ND 21 MP 4) - NDDOT",
+
+    "name": "Daglum - Pavement (ND 21 MP 4) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/newleipzigwest.jpg",
+    "description": "New Leipzig - West (ND 21 MP 67.59) - NDDOT",
+
+    "name": "New Leipzig - West (ND 21 MP 67.59) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/newleipzigeast.jpg",
+    "description": "New Leipzig - East (ND 21 MP 67.59) - NDDOT",
+
+    "name": "New Leipzig - East (ND 21 MP 67.59) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/newleipzigcenter.jpg",
+    "description": "New Leipzig - South (ND 21 MP 67.59) - NDDOT",
+
+    "name": "New Leipzig - South (ND 21 MP 67.59) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/newleipzigpavement.jpg",
+    "description": "New Leipzig - Pavement (ND 21 MP 67.59) - NDDOT",
+
+    "name": "New Leipzig - Pavement (ND 21 MP 67.59) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/newenglandcenter.jpg",
+    "description": "New England - West (ND 22 MP 57.24) - NDDOT",
+
+    "name": "New England - West (ND 22 MP 57.24) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/newenglandnorth.jpg",
+    "description": "New England - North (ND 22 MP 57.24) - NDDOT",
+
+    "name": "New England - North (ND 22 MP 57.24) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/newenglandsouth.jpg",
+    "description": "New England - South (ND 22 MP 57.24) - NDDOT",
+
+    "name": "New England - South (ND 22 MP 57.24) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/newenglandpavement.jpg",
+    "description": "New England - Pavement (ND 22 MP 57.24) - NDDOT",
+
+    "name": "New England - Pavement (ND 22 MP 57.24) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/ND22RP77DickinsonCenter.jpg",
+    "description": "New Hradec - West (ND 22 MP 77) - NDDOT",
+
+    "name": "New Hradec - West (ND 22 MP 77) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/ND22RP77DickinsonNorth.jpg",
+    "description": "New Hradec - North (ND 22 MP 77) - NDDOT",
+
+    "name": "New Hradec - North (ND 22 MP 77) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/ND22RP77DickinsonSouth.jpg",
+    "description": "New Hradec - South (ND 22 MP 77) - NDDOT",
+
+    "name": "New Hradec - South (ND 22 MP 77) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/ND22RP77DickinsonPavement.jpg",
+    "description": "New Hradec - Pavement (ND 22 MP 77) - NDDOT",
+
+    "name": "New Hradec - Pavement (ND 22 MP 77) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/manningnorth.jpg",
+    "description": "Manning - North (ND 22 MP 81.5) - NDDOT",
+
+    "name": "Manning - North (ND 22 MP 81.5) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/manningcenter.jpg",
+    "description": "Manning - East (ND 22 MP 81.5) - NDDOT",
+
+    "name": "Manning - East (ND 22 MP 81.5) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/manningsouth.jpg",
+    "description": "Manning - South (ND 22 MP 81.5) - NDDOT",
+
+    "name": "Manning - South (ND 22 MP 81.5) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/manningpavement.jpg",
+    "description": "Manning - Pavement (ND 22 MP 81.5) - NDDOT",
+
+    "name": "Manning - Pavement (ND 22 MP 81.5) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/killdeercenter.jpg",
+    "description": "Killdeer - West (ND 22 MP 112.2) - NDDOT",
+
+    "name": "Killdeer - West (ND 22 MP 112.2) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/killdeernorth.jpg",
+    "description": "Killdeer - North (ND 22 MP 112.2) - NDDOT",
+
+    "name": "Killdeer - North (ND 22 MP 112.2) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/killdeersouth.jpg",
+    "description": "Killdeer - South (ND 22 MP 112.2) - NDDOT",
+
+    "name": "Killdeer - South (ND 22 MP 112.2) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/killdeerpavement.jpg",
+    "description": "Killdeer - Pavement (ND 22 MP 112.2) - NDDOT",
+
+    "name": "Killdeer - Pavement (ND 22 MP 112.2) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/ND-22Mile124West.jpg",
+    "description": "Lost Bridge - West (ND 22 MP 124.64) - LiveView",
+
+    "name": "Lost Bridge - West (ND 22 MP 124.64) - LiveView"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/ND-22Mile124North.jpg",
+    "description": "Lost Bridge - North (ND 22 MP 124.64) - LiveView",
+
+    "name": "Lost Bridge - North (ND 22 MP 124.64) - LiveView"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/ND-22Mile124South.jpg",
+    "description": "Lost Bridge - South (ND 22 MP 124.64) - LiveView",
+
+    "name": "Lost Bridge - South (ND 22 MP 124.64) - LiveView"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/ND-22Mile124RoadSurface.jpg",
+    "description": "Lost Bridge - Pavement (ND 22 MP 124.64) - LiveView",
+
+    "name": "Lost Bridge - Pavement (ND 22 MP 124.64) - LiveView"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/newtowneast.jpg",
+    "description": "Four Bears Bridge - East (ND 23 MP 45.75) - NDDOT",
+
+    "name": "Four Bears Bridge - East (ND 23 MP 45.75) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/newtowncenter.jpg",
+    "description": "Four Bears Bridge - South (ND 23 MP 45.75) - NDDOT",
+
+    "name": "Four Bears Bridge - South (ND 23 MP 45.75) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/newtownwest.jpg",
+    "description": "Four Bears Bridge - West (ND 23 MP 45.75) - NDDOT",
+
+    "name": "Four Bears Bridge - West (ND 23 MP 45.75) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/newtownpavement.jpg",
+    "description": "Four Bears Bridge - Pavement (ND 23 MP 45.75) - NDDOT",
+
+    "name": "Four Bears Bridge - Pavement (ND 23 MP 45.75) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/ryderwest.jpg",
+    "description": "Ryder - West (ND 23 MP 102.2) - NDDOT",
+
+    "name": "Ryder - West (ND 23 MP 102.2) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/rydercenter.jpg",
+    "description": "Ryder - North (ND 23 MP 102.2) - NDDOT",
+
+    "name": "Ryder - North (ND 23 MP 102.2) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/rydereast.jpg",
+    "description": "Ryder - East (ND 23 MP 102.2) - NDDOT",
+
+    "name": "Ryder - East (ND 23 MP 102.2) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/ryderpavement.jpg",
+    "description": "Ryder - Pavement (ND 23 MP 102.2) - NDDOT",
+
+    "name": "Ryder - Pavement (ND 23 MP 102.2) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/ND-37Mile36West.jpg",
+    "description": "Ryder - West (ND 37 MP 36.8) - LiveView",
+
+    "name": "Ryder - West (ND 37 MP 36.8) - LiveView"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/ND-37Mile36North.jpg",
+    "description": "Ryder - North (ND 37 MP 36.8) - LiveView",
+
+    "name": "Ryder - North (ND 37 MP 36.8) - LiveView"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/ND-37Mile36South.jpg",
+    "description": "Ryder - South (ND 37 MP 36.8) - LiveView",
+
+    "name": "Ryder - South (ND 37 MP 36.8) - LiveView"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/ND-37Mile36Pavement.jpg",
+    "description": "Ryder - Pavement (ND 37 MP 36.8) - LiveView",
+
+    "name": "Ryder - Pavement (ND 37 MP 36.8) - LiveView"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/carpionorthwest.jpg",
+    "description": "Carpio - Northwest (US 52 MP 67.9) - NDDOT",
+
+    "name": "Carpio - Northwest (US 52 MP 67.9) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/carpionortheast.jpg",
+    "description": "Carpio - Northeast (ND 28 MP 55) - NDDOT",
+
+    "name": "Carpio - Northeast (ND 28 MP 55) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/carpiosoutheast.jpg",
+    "description": "Carpio - Southeast (US 52 MP 67.9) - NDDOT",
+
+    "name": "Carpio - Southeast (US 52 MP 67.9) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/carpiosouthwest.jpg",
+    "description": "Carpio - Southwest (ND 28 MP 55) - NDDOT",
+
+    "name": "Carpio - Southwest (ND 28 MP 55) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/carpiopavement.jpg",
+    "description": "Carpio - Pavement (US 52 MP 67.9) - NDDOT",
+
+    "name": "Carpio - Pavement (US 52 MP 67.9) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/cavalierwest.jpg",
+    "description": "Cavalier - West (Junction of ND 5 & ND 32) - NDDOT",
+
+    "name": "Cavalier - West (Junction of ND 5 & ND 32) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/cavaliernorth.jpg",
+    "description": "Cavalier - North (Junction of ND 5 & ND 32) - NDDOT",
+
+    "name": "Cavalier - North (Junction of ND 5 & ND 32) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/cavaliereast.jpg",
+    "description": "Cavalier - East (Junction of ND 5 & ND 32) - NDDOT",
+
+    "name": "Cavalier - East (Junction of ND 5 & ND 32) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/cavaliercenter.jpg",
+    "description": "Cavalier - Interchange (Junction of ND 5 & ND 32) - NDDOT",
+
+    "name": "Cavalier - Interchange (Junction of ND 5 & ND 32) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/cavalierpavement.jpg",
+    "description": "Cavalier - Pavement (ND 5 & ND 32 Interchange) - NDDOT",
+
+    "name": "Cavalier - Pavement (ND 5 & ND 32 Interchange) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/ND-36Mile62West.jpg",
+    "description": "ND 36 @ MP 64 - West (ND 36 MP 64) - LiveView",
+
+    "name": "ND 36 @ MP 64 - West (ND 36 MP 64) - LiveView"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/ND-36Mile62North.jpg",
+    "description": "ND 36 @ MP 36 - North (ND 36 MP 64) - LiveView",
+
+    "name": "ND 36 @ MP 36 - North (ND 36 MP 64) - LiveView"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/ND-36Mile62East.jpg",
+    "description": "ND 36 @ MP 36 - East (ND 36 MP 64) - LiveView",
+
+    "name": "ND 36 @ MP 36 - East (ND 36 MP 64) - LiveView"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/ND-36Mile62RoadSurface.jpg",
+    "description": "ND 36 @ MP 36 - Pavement (ND 36 MP 64) - LiveView",
+
+    "name": "ND 36 @ MP 36 - Pavement (ND 36 MP 64) - LiveView"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/ND38RP10BuffaloCenter.jpg",
+    "description": "Buffalo - West (ND 38 MP 10) - NDDOT",
+
+    "name": "Buffalo - West (ND 38 MP 10) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/ND38RP10BuffaloNorth.jpg",
+    "description": "Buffalo - North (ND 38 MP 10) - NDDOT",
+
+    "name": "Buffalo - North (ND 38 MP 10) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/ND38RP10BuffaloSouth.jpg",
+    "description": "Buffalo - South (ND 38 MP 10) - NDDOT",
+
+    "name": "Buffalo - South (ND 38 MP 10) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/ND38RP10BuffaloPavement.jpg",
+    "description": "Buffalo - Pavement (ND 38 MP 10) - NDDOT",
+
+    "name": "Buffalo - Pavement (ND 38 MP 10) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/columbuscenter.jpg",
+    "description": "Columbus - West (ND 40 MP 33.84) - NDDOT",
+
+    "name": "Columbus - West (ND 40 MP 33.84) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/columbusnorth.jpg",
+    "description": "Columbus - North (ND 40 MP 33.84) - NDDOT",
+
+    "name": "Columbus - North (ND 40 MP 33.84) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/columbussouth.jpg",
+    "description": "Columbus -South (ND 40 MP 33.84) - NDDOT",
+
+    "name": "Columbus -South (ND 40 MP 33.84) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/columbuspavement.jpg",
+    "description": "Columbus - Pavement (ND 40 MP 33.84) - NDDOT",
+
+    "name": "Columbus - Pavement (ND 40 MP 33.84) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/beulahnorth.jpg",
+    "description": "Beulah - North (ND 49 MP 91.78) - NDDOT",
+
+    "name": "Beulah - North (ND 49 MP 91.78) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/beulahcenter.jpg",
+    "description": "Beulah - East (ND 49 MP 91.78) - NDDOT",
+
+    "name": "Beulah - East (ND 49 MP 91.78) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/beulahsouth.jpg",
+    "description": "Beulah - South (ND 49 MP 91.78) - NDDOT",
+
+    "name": "Beulah - South (ND 49 MP 91.78) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/beulahpavement.jpg",
+    "description": "Beulah - Pavement (ND 49 MP 91.78) - NDDOT",
+
+    "name": "Beulah - Pavement (ND 49 MP 91.78) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/forttottenwest.jpg",
+    "description": "Fort Totten - West (ND 57 MP 7.706) - NDDOT",
+
+    "name": "Fort Totten - West (ND 57 MP 7.706) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/forttottencenter.jpg",
+    "description": "Fort Totten - North (ND 57 MP 7.706) - NDDOT",
+
+    "name": "Fort Totten - North (ND 57 MP 7.706) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/forttotteneast.jpg",
+    "description": "Fort Totten - East (ND 57 MP 7.706) - NDDOT",
+
+    "name": "Fort Totten - East (ND 57 MP 7.706) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/forttottenpavement.jpg",
+    "description": "Fort Totten - Pavement (ND 57 MP 7.706) - NDDOT",
+
+    "name": "Fort Totten - Pavement (ND 57 MP 7.706) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/devilslakewest.jpg",
+    "description": "Devils Lake - West (ND 57 MP 10.427)",
+
+    "name": "Devils Lake - West (ND 57 MP 10.427)"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/devilslakecenter.jpg",
+    "description": "Devils Lake - North (ND 57 MP 10.427)",
+
+    "name": "Devils Lake - North (ND 57 MP 10.427)"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/devilslakeeast.jpg",
+    "description": "Devils Lake - East (ND 57 MP 10.427)",
+
+    "name": "Devils Lake - East (ND 57 MP 10.427)"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/devilslakepavement.jpg",
+    "description": "Devils Lake - Pavement (ND 57 MP 10.427)",
+
+    "name": "Devils Lake - Pavement (ND 57 MP 10.427)"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/draytonwest.jpg",
+    "description": "Drayton Bridge - West (ND 66 MP 138.07) - NDDOT",
+
+    "name": "Drayton Bridge - West (ND 66 MP 138.07) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/draytoncenter.jpg",
+    "description": "Drayton Bridge - North (ND 66 MP 138.07) - NDDOT",
+
+    "name": "Drayton Bridge - North (ND 66 MP 138.07) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/draytonbridge.jpg",
+    "description": "Drayton Bridge - Bridge (ND 66 MP 138.07) - NDDOT",
+
+    "name": "Drayton Bridge - Bridge (ND 66 MP 138.07) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/draytoneast.jpg",
+    "description": "Drayton Bridge - East (ND 66 MP 138.07) - NDDOT",
+
+    "name": "Drayton Bridge - East (ND 66 MP 138.07) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/draytonpavement.jpg",
+    "description": "Drayton Bridge - Pavement (ND 66 MP 138.07) - NDDOT",
+
+    "name": "Drayton Bridge - Pavement (ND 66 MP 138.07) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/killdeerwwest.jpg",
+    "description": "Killdeer West - West (ND 200 MP 89) - NDDOT",
+
+    "name": "Killdeer West - West (ND 200 MP 89) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/killdeerweast.jpg",
+    "description": "Killdeer West - East (ND 200 MP 89) - NDDOT",
+
+    "name": "Killdeer West - East (ND 200 MP 89) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/killdeerwcenter.jpg",
+    "description": "Killdeer West - South (ND 200 MP 89) - NDDOT",
+
+    "name": "Killdeer West - South (ND 200 MP 89) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/killdeerwpavement.jpg",
+    "description": "Killdeer West - Pavement (ND 200 MP 89) - NDDOT",
+
+    "name": "Killdeer West - Pavement (ND 200 MP 89) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/killdeerroundaboutcenter.jpg",
+    "description": "Killdeer Roundabout - Center (ND 22 & ND 200) - NDDOT",
+
+    "name": "Killdeer Roundabout - Center (ND 22 & ND 200) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/killdeerroundaboutwest.jpg",
+    "description": "Killdeer Roundabout - West (ND 200 MP 95.254) - NDDOT",
+
+    "name": "Killdeer Roundabout - West (ND 200 MP 95.254) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/killdeerroundaboutnorth.jpg",
+    "description": "Killdeer Roundabout - North (ND 22 MP 104.534) - NDDOT",
+
+    "name": "Killdeer Roundabout - North (ND 22 MP 104.534) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/killdeerroundabouteast.jpg",
+    "description": "Killdeer Roundabout - East (ND 200 MP 95.254)",
+
+    "name": "Killdeer Roundabout - East (ND 200 MP 95.254)"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/killdeerroundaboutsouth.jpg",
+    "description": "Killdeer Roundabout - South (ND 22 MP 104.534) - NDDOT",
+
+    "name": "Killdeer Roundabout - South (ND 22 MP 104.534) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/killdeerroundaboutpavement.jpg",
+    "description": "Killdeer Roundabout - Pavement (ND 22 MP 104.534) - NDDOT",
+
+    "name": "Killdeer Roundabout - Pavement (ND 22 MP 104.534) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/goldenvalleywest.jpg",
+    "description": "Golden Valley - West (ND 200 MP 131) - NDDOT",
+
+    "name": "Golden Valley - West (ND 200 MP 131) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/goldenvalleyeast.jpg",
+    "description": "Golden Valley - East (ND 200 MP 131) - NDDOT",
+
+    "name": "Golden Valley - East (ND 200 MP 131) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/goldenvalleycenter.jpg",
+    "description": "Golden Valley - South (ND 200 MP 131) - NDDOT",
+
+    "name": "Golden Valley - South (ND 200 MP 131) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/goldenvalleypavement.jpg",
+    "description": "Golden Valley - Pavement (ND 200 MP 131) - NDDOT",
+
+    "name": "Golden Valley - Pavement (ND 200 MP 131) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/ND-200Mile177West.jpg",
+    "description": "Garrison Dam - West (ND 200 MP 177) - LiveView",
+
+    "name": "Garrison Dam - West (ND 200 MP 177) - LiveView"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/ND-200Mile177North.jpg",
+    "description": "Garrison Dam - North (ND 200 MP 177) - LiveView",
+
+    "name": "Garrison Dam - North (ND 200 MP 177) - LiveView"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/ND-200Mile177East.jpg",
+    "description": "Garrison Dam - East (ND 200 MP 177) - LiveView",
+
+    "name": "Garrison Dam - East (ND 200 MP 177) - LiveView"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/ND-200Mile177Roadsurface.jpg",
+    "description": "Garrison Dam - Pavement (ND 200 MP 177) - LiveView",
+
+    "name": "Garrison Dam - Pavement (ND 200 MP 177) - LiveView"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/bowdonwest.jpg",
+    "description": "Bowdon - West (ND 200 MP 268.577) - NDDOT",
+
+    "name": "Bowdon - West (ND 200 MP 268.577) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/bowdonnorth.jpg",
+    "description": "Bowdon - North (US 52 MP 198.717) - NDDOT",
+
+    "name": "Bowdon - North (US 52 MP 198.717) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/bowdoneast.jpg",
+    "description": "Bowdon - East (ND 200 MP 268.577) - NDDOT",
+
+    "name": "Bowdon - East (ND 200 MP 268.577) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/bowdoncenter.jpg",
+    "description": "Bowdon - East (US 52 MP 198.717) - NDDOT",
+
+    "name": "Bowdon - East (US 52 MP 198.717) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/bowdonsouth.jpg",
+    "description": "Bowdon - South US 52 & ND 200 Interchange) - NDDOT",
+
+    "name": "Bowdon - South US 52 & ND 200 Interchange) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/bowdonpavement.jpg",
+    "description": "Bowdon - Pavement (US 52 MP 198.717) - NDDOT",
+
+    "name": "Bowdon - Pavement (US 52 MP 198.717) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/washburnwest.jpg",
+    "description": "Washburn - West (US 83 MP 128.07)",
+
+    "name": "Washburn - West (US 83 MP 128.07)"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/washburnnorth.jpg",
+    "description": "Washburn - North (ND 200A MP 925.654)",
+
+    "name": "Washburn - North (ND 200A MP 925.654)"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/washburneast.jpg",
+    "description": "Washburn - East (US 83 MP 128.07)",
+
+    "name": "Washburn - East (US 83 MP 128.07)"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/washburncenter.jpg",
+    "description": "Washburn - South (US 83 MP 128.07)",
+
+    "name": "Washburn - South (US 83 MP 128.07)"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/washburnsouth.jpg",
+    "description": "Washburn - South (ND 200A MP 925.654)",
+
+    "name": "Washburn - South (ND 200A MP 925.654)"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/washburnpavement.jpg",
+    "description": "Washburn - Pavement (US 83 MP 128.07)",
+
+    "name": "Washburn - Pavement (US 83 MP 128.07)"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/whiteshieldwest.jpg",
+    "description": "Whiteshield - West (ND 1804 MP 193.18) - NDDOT",
+
+    "name": "Whiteshield - West (ND 1804 MP 193.18) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/whiteshieldeast.jpg",
+    "description": "Whiteshield - East (ND 1804 MP 193.18) - NDDOT",
+
+    "name": "Whiteshield - East (ND 1804 MP 193.18) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/whiteshieldcenter.jpg",
+    "description": "Whiteshield - South 1 (ND 1804 MP 193.18) - NDDOT",
+
+    "name": "Whiteshield - South 1 (ND 1804 MP 193.18) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/whiteshieldsouth.jpg",
+    "description": "Whiteshield - South 2 (ND 1804 MP 193.18) - NDDOT",
+
+    "name": "Whiteshield - South 2 (ND 1804 MP 193.18) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/whiteshieldpavement.jpg",
+    "description": "Whiteshield - Pavement (ND 1804 MP 193.18) - NDDOT",
+
+    "name": "Whiteshield - Pavement (ND 1804 MP 193.18) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/I29RP145GrandForksWest.jpg",
+    "description": "Grand Forks -  West (I 29 MP 145) - NDDOT",
+
+    "name": "Grand Forks - West (I 29 MP 145) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/I29RP145GrandForksNorth.jpg",
+    "description": "Grand Forks -  North (I 29 MP 145) - NDDOT",
+
+    "name": "Grand Forks - North (I 29 MP 145) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/I29RP145GrandForksCenter.jpg",
+    "description": "Grand Forks -  East (I 29 MP 145) - NDDOT",
+
+    "name": "Grand Forks - East (I 29 MP 145) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/I29RP145GrandForksSouth.jpg",
+    "description": "Grand Forks -  South (I 29 MP 145) - NDDOT",
+
+    "name": "Grand Forks - South (I 29 MP 145) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/I29RP145GrandForksPavement.jpg",
+    "description": "Grand Forks -  Pavement (I 29 MP 145) - NDDOT",
+
+    "name": "Grand Forks - Pavement (I 29 MP 145) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/ND21RP122FlasherWest.jpg",
+    "description": "Flasher - West (ND 21 MP 122) - NDDOT",
+
+    "name": "Flasher - West (ND 21 MP 122) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/ND21RP122FlasherSouth.jpg",
+    "description": "Flasher - South (ND 21 MP 122) - NDDOT",
+
+    "name": "Flasher - South (ND 21 MP 122) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/ND21RP122FlasherEast.jpg",
+    "description": "Flasher - East (ND 21 MP 122) - NDDOT",
+
+    "name": "Flasher - East (ND 21 MP 122) - NDDOT"
+  },
+  {
+    "imageUrl": "https://www.dot.nd.gov/travel-info/cameras/ND21RP122FlasherPavement.jpg",
+    "description": "Flasher - Pavement (ND 21 MP 122) - NDDOT",
+
+    "name": "Flasher - Pavement (ND 21 MP 122) - NDDOT"
+  }
+]

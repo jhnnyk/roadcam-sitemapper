@@ -15,6 +15,7 @@ import IowaRoads from '../pages/iowa/IowaRoads.vue';
 import MichiganRoads from '../pages/michigan/MichiganRoads.vue';
 import MinnesotaRoads from '../pages/minnesota/MinnesotaRoads.vue';
 import NationalParks from '../pages/nationalparks/NationalParks.vue';
+import NorthDakotaData from '../pages/north-dakota/NorthDakotaData.vue';
 import OhioRoads from '../pages/ohio/OhioRoads.vue';
 import OntarioRoads from '../pages/ontario/OntarioRoads.vue';
 import OregonRoads from '../pages/oregon/OregonRoads.vue';
@@ -95,6 +96,11 @@ const routes = [
     path: '/nationalparks',
     name: 'NationalParks',
     component: NationalParks,
+  },
+  {
+    path: '/northdakotadata',
+    name: 'NorthDakotaData',
+    component: NorthDakotaData,
   },
   {
     path: '/ohio',
