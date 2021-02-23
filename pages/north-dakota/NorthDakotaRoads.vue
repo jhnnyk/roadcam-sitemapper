@@ -16,6 +16,7 @@
 <script>
 import slugify from 'slugify';
 import data from './north-dakotaroads.json';
+
 export default {
   name: 'NorthDakotaRoads',
 
