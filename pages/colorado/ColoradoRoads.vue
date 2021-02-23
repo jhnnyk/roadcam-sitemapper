@@ -14,8 +14,7 @@
 </template>
 
 <script>
-import slugify from 'slugify';
-import rawData from './coloradoroads-original.json';
+import rawData from './coloradoroads.json';
 
 export default {
   name: 'ColoradoRoads',
@@ -27,48 +26,23 @@ export default {
   },
 
   created() {
-    rawData.Cameras.forEach((el) => {
+    rawData.forEach((el) => {
       const cam = {};
 
-      cam.name = el.Name;
-      cam.slug = slugify(el.Name, {
-        remove: /[*+~.()'"!/#:@]/g,
-        lower: true,
-      });
-      cam.latitude = el.Location.Latitude;
-      cam.longitude = el.Location.Longitude;
+      cam.name = el.name;
+      cam.slug = el.slug;
+      cam.latitude = el.latitude;
+      cam.longitude = el.longitude;
+      cam.route = el.route;
+      cam.routeSlug = el.routeSlug;
+      cam.milepoint = el.milepoint;
+      cam.imageURL = el.imageUrl;
+      cam.description = el.description;
 
-      if (el.CameraView[0]) {
-        cam.imageURL = `https://www.cotrip.org/${el.CameraView[0].ImageLocation}`;
-        cam.description = el.CameraView[0].ViewDescription;
-      } else if (
-        el.CameraView.ImageLocation.indexOf('http://') === 0 ||
-        el.CameraView.ImageLocation.indexOf('https://') === 0
-      ) {
-        cam.imageURL = el.CameraView.ImageLocation;
-        cam.description = el.CameraView.ViewDescription;
-      } else {
-        cam.imageURL = `https://www.cotrip.org/${el.CameraView.ImageLocation}`;
-        cam.description = el.CameraView.ViewDescription;
-      }
+      cam.credit = 'COtrip';
+      cam.creditLink = 'https://www.cotrip.org/home.htm';
 
-      if (el.CameraView[0]) {
-        cam.route = el.CameraView[0].RoadName;
-        cam.routeSlug = slugify(el.CameraView[0].RoadName, {
-          remove: /[*+~.()'"!/#:@]/g,
-          lower: true,
-        });
-        cam.milepoint = el.CameraView[0].MileMarker;
-      } else {
-        cam.route = el.CameraView.RoadName;
-        cam.routeSlug = slugify(el.CameraView.RoadName, {
-          remove: /[*+~.()'"!/#:@]/g,
-          lower: true,
-        });
-        cam.milepoint = el.CameraView.MileMarker;
-      }
-
-      cam.sitemapItem = `<url><loc>https://road.camera/colorado/roads/${cam.routeSlug}/${cam.slug}</loc></url>`;
+      cam.sitemapItem = `<url><loc>https://road.camera/colorado/roads/${cam.routeSlug}/${cam.slug}</loc><lastmod>2021-02-23</lastmod></url>`;
 
       this.allCams.push(cam);
     });
@@ -87,7 +61,7 @@ export default {
           routes.push({
             slug: cam.routeSlug,
             name: cam.route,
-            sitemapItem: `<url><loc>https://road.camera/colorado/roads/${cam.routeSlug}</loc></url>`,
+            sitemapItem: `<url><loc>https://road.camera/colorado/roads/${cam.routeSlug}</loc><lastmod>2021-02-23</lastmod></url>`,
           });
         }
       });
