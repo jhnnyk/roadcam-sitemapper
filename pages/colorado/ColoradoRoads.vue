@@ -15,7 +15,7 @@
 
 <script>
 import slugify from 'slugify';
-import rawData from './coloradoroads.json';
+import rawData from './coloradoroads-original.json';
 
 export default {
   name: 'ColoradoRoads',

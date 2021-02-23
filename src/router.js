@@ -7,6 +7,7 @@ import AlbertaRoads from '../pages/alberta/AlbertaRoads.vue';
 import ArizonaRoads from '../pages/arizona/ArizonaRoads.vue';
 import BCRoads from '../pages/british-columbia/BCRoads.vue';
 import CaliforniaRoads from '../pages/california/CaliforniaRoads.vue';
+import ColoradoData from '../pages/colorado/ColoradoData.vue';
 import ColoradoRoads from '../pages/colorado/ColoradoRoads.vue';
 import ConnecticutRoads from '../pages/connecticut/ConnecticutRoads.vue';
 import IllinoisData from '../pages/illinois/IllinoisData.vue';
@@ -57,6 +58,11 @@ const routes = [
     path: '/california',
     name: 'CaliforniaRoads',
     component: CaliforniaRoads,
+  },
+  {
+    path: '/coloradodata',
+    name: 'ColoradoData',
+    component: ColoradoData,
   },
   {
     path: '/colorado',
